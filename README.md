@@ -12,6 +12,7 @@ The following books and documents are available in the `resources/` directory:
 - [**Learning Ray: Distributed Python**](resources/learning-ray.pdf) — Max Pumperla, Edward Oakes, and Richard Liaw (2023)
 - [**LLM Engineers Handbook**](resources/llm-engineers-handbook.pdf) — Paul Iusztin and Maxime Labonne (2024)
 - [**Parallel and High-Performance Programming with Python**](resources/parallel-hpc-python.pdf) — Fabio Nelli (2023)
+- [**InferenceOps and Management**](https://bentoml.com/llm/infrastructure-and-operations/inferenceops-and-management) — BentoML
 - [**GPU.pdf**](resources/gpu.pdf) — (Technical Reference)
 
 ## Multi-core Computer Architecture
