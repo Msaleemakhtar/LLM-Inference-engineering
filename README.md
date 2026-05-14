@@ -15,6 +15,7 @@ The following books and documents are available in the `resources/` directory:
 - [**Designing Machine Learning Systems**](resources/designing-ml-systems-chip-huyen.pdf) — Chip Huyen (2022)
 - [**Learning Ray: Distributed Python**](resources/learning-ray.pdf) — Max Pumperla, Edward Oakes, and Richard Liaw (2023)
 - [**Silicon to Scale**](https://vvinjamu.github.io/silicon-to-scale/) — (External Resource)
+- [**Roofline Modal**](https://modal.com/gpu-glossary/perf/roofline-model)— (External Resource)
 
 ## Multi-core Computer Architecture
 - [Lectures Multicore computer Architecture](https://youtube.com/playlist?list=PLwdnzlV3ogoUT7g3BySY2QQesG3eB4dss&si=mym7z-6uKy1cMPPi)
