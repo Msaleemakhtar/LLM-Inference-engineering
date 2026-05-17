@@ -1,0 +1,17 @@
+# 42: Concepts in Deflection Routers [T]
+
+![Screenshot From 2026-05-17 02-57-06.png](./Screenshot%20From%202026-05-17%2002-57-06.png)
+![Screenshot From 2026-05-17 03-12-59.png](./Screenshot%20From%202026-05-17%2003-12-59.png)
+![Screenshot From 2026-05-17 03-13-44.png](./Screenshot%20From%202026-05-17%2003-13-44.png)
+![Screenshot From 2026-05-17 03-14-24.png](./Screenshot%20From%202026-05-17%2003-14-24.png)
+![Screenshot From 2026-05-17 03-15-46.png](./Screenshot%20From%202026-05-17%2003-15-46.png)
+![Screenshot From 2026-05-17 03-19-30.png](./Screenshot%20From%202026-05-17%2003-19-30.png)
+![Screenshot From 2026-05-17 03-21-33.png](./Screenshot%20From%202026-05-17%2003-21-33.png)
+![Screenshot From 2026-05-17 03-23-56.png](./Screenshot%20From%202026-05-17%2003-23-56.png)
+![Screenshot From 2026-05-17 03-28-02.png](./Screenshot%20From%202026-05-17%2003-28-02.png)
+![Screenshot From 2026-05-17 03-35-14.png](./Screenshot%20From%202026-05-17%2003-35-14.png)
+![Screenshot From 2026-05-17 03-36-03.png](./Screenshot%20From%202026-05-17%2003-36-03.png)
+![Screenshot From 2026-05-17 03-37-25.png](./Screenshot%20From%202026-05-17%2003-37-25.png)
+![Screenshot From 2026-05-17 03-38-33.png](./Screenshot%20From%202026-05-17%2003-38-33.png)
+![Screenshot From 2026-05-17 03-41-59.png](./Screenshot%20From%202026-05-17%2003-41-59.png)
+![Screenshot From 2026-05-17 03-42-46.png](./Screenshot%20From%202026-05-17%2003-42-46.png)
