@@ -1,6 +1,10 @@
 # 09.control-hazard-and-branch-prediction
 
-[⬅️ Previous Topic](../08.Instruction-pipline-hazards-2/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../10.MIPS-Pipeline-for-Multi-Cycle-Operations/README.md)
+<p align="center">
+  <a href="../08.Instruction-pipline-hazards-2/README.md"><img src="https://img.shields.io/badge/-PREVIOUS-black?style=for-the-badge&logo=arrow-left&logoColor=white" /></a>
+  <a href="../README.md"><img src="https://img.shields.io/badge/-MAIN%20MENU-black?style=for-the-badge" /></a>
+  <a href="../10.MIPS-Pipeline-for-Multi-Cycle-Operations/README.md"><img src="https://img.shields.io/badge/-NEXT-black?style=for-the-badge&logo=arrow-right&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -30,4 +34,9 @@
 ![Screenshot From 2026-04-15 02-26-09.png](./Screenshot%20From%202026-04-15%2002-26-09.png)
 
 ---
-[⬅️ Previous Topic](../08.Instruction-pipline-hazards-2/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../10.MIPS-Pipeline-for-Multi-Cycle-Operations/README.md)
+
+<p align="center">
+  <a href="../08.Instruction-pipline-hazards-2/README.md"><img src="https://img.shields.io/badge/-PREVIOUS-black?style=for-the-badge&logo=arrow-left&logoColor=white" /></a>
+  <a href="../README.md"><img src="https://img.shields.io/badge/-MAIN%20MENU-black?style=for-the-badge" /></a>
+  <a href="../10.MIPS-Pipeline-for-Multi-Cycle-Operations/README.md"><img src="https://img.shields.io/badge/-NEXT-black?style=for-the-badge&logo=arrow-right&logoColor=white" /></a>
+</p>

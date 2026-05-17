@@ -1,6 +1,10 @@
 # 06.RISC -Instruction-Pipeline
 
-[⬅️ Previous Topic](../05.Performance-evaluation-method-2/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../07.Instruction-pipline-hazards-1/README.md)
+<p align="center">
+  <a href="../05.Performance-evaluation-method-2/README.md"><img src="https://img.shields.io/badge/-PREVIOUS-black?style=for-the-badge&logo=arrow-left&logoColor=white" /></a>
+  <a href="../README.md"><img src="https://img.shields.io/badge/-MAIN%20MENU-black?style=for-the-badge" /></a>
+  <a href="../07.Instruction-pipline-hazards-1/README.md"><img src="https://img.shields.io/badge/-NEXT-black?style=for-the-badge&logo=arrow-right&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -32,4 +36,9 @@
 ![Screenshot From 2026-04-13 05-11-35.png](./Screenshot%20From%202026-04-13%2005-11-35.png)
 
 ---
-[⬅️ Previous Topic](../05.Performance-evaluation-method-2/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../07.Instruction-pipline-hazards-1/README.md)
+
+<p align="center">
+  <a href="../05.Performance-evaluation-method-2/README.md"><img src="https://img.shields.io/badge/-PREVIOUS-black?style=for-the-badge&logo=arrow-left&logoColor=white" /></a>
+  <a href="../README.md"><img src="https://img.shields.io/badge/-MAIN%20MENU-black?style=for-the-badge" /></a>
+  <a href="../07.Instruction-pipline-hazards-1/README.md"><img src="https://img.shields.io/badge/-NEXT-black?style=for-the-badge&logo=arrow-right&logoColor=white" /></a>
+</p>

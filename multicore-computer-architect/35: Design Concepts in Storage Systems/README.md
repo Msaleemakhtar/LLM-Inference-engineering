@@ -1,6 +1,10 @@
 # 35: Design Concepts in Storage Systems
 
-[⬅️ Previous Topic](../34%3A%20Secondary%20Storage%20Systems/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../36%3A%20Introduction%20to%20Tiled%20Chip%20Multicore%20Processors/README.md)
+<p align="center">
+  <a href="../34%3A%20Secondary%20Storage%20Systems/README.md"><img src="https://img.shields.io/badge/-PREVIOUS-black?style=for-the-badge&logo=arrow-left&logoColor=white" /></a>
+  <a href="../README.md"><img src="https://img.shields.io/badge/-MAIN%20MENU-black?style=for-the-badge" /></a>
+  <a href="../36%3A%20Introduction%20to%20Tiled%20Chip%20Multicore%20Processors/README.md"><img src="https://img.shields.io/badge/-NEXT-black?style=for-the-badge&logo=arrow-right&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -17,4 +21,9 @@
 ![Screenshot From 2026-05-13 10-03-35.png](./Screenshot%20From%202026-05-13%2010-03-35.png)
 
 ---
-[⬅️ Previous Topic](../34%3A%20Secondary%20Storage%20Systems/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../36%3A%20Introduction%20to%20Tiled%20Chip%20Multicore%20Processors/README.md)
+
+<p align="center">
+  <a href="../34%3A%20Secondary%20Storage%20Systems/README.md"><img src="https://img.shields.io/badge/-PREVIOUS-black?style=for-the-badge&logo=arrow-left&logoColor=white" /></a>
+  <a href="../README.md"><img src="https://img.shields.io/badge/-MAIN%20MENU-black?style=for-the-badge" /></a>
+  <a href="../36%3A%20Introduction%20to%20Tiled%20Chip%20Multicore%20Processors/README.md"><img src="https://img.shields.io/badge/-NEXT-black?style=for-the-badge&logo=arrow-right&logoColor=white" /></a>
+</p>

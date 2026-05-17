@@ -1,6 +1,10 @@
 # 29: Design Space for snooping protocols
 
-[⬅️ Previous Topic](../28%3A%20Cache%20coherence%20and%20memory%20consistency/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../30%3A%20Directory%20Based%20Cache%20coherehce/README.md)
+<p align="center">
+  <a href="../28%3A%20Cache%20coherence%20and%20memory%20consistency/README.md"><img src="https://img.shields.io/badge/-PREVIOUS-black?style=for-the-badge&logo=arrow-left&logoColor=white" /></a>
+  <a href="../README.md"><img src="https://img.shields.io/badge/-MAIN%20MENU-black?style=for-the-badge" /></a>
+  <a href="../30%3A%20Directory%20Based%20Cache%20coherehce/README.md"><img src="https://img.shields.io/badge/-NEXT-black?style=for-the-badge&logo=arrow-right&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -41,4 +45,9 @@
 ![Screenshot From 2026-05-12 00-52-04.png](./Screenshot%20From%202026-05-12%2000-52-04.png)
 
 ---
-[⬅️ Previous Topic](../28%3A%20Cache%20coherence%20and%20memory%20consistency/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../30%3A%20Directory%20Based%20Cache%20coherehce/README.md)
+
+<p align="center">
+  <a href="../28%3A%20Cache%20coherence%20and%20memory%20consistency/README.md"><img src="https://img.shields.io/badge/-PREVIOUS-black?style=for-the-badge&logo=arrow-left&logoColor=white" /></a>
+  <a href="../README.md"><img src="https://img.shields.io/badge/-MAIN%20MENU-black?style=for-the-badge" /></a>
+  <a href="../30%3A%20Directory%20Based%20Cache%20coherehce/README.md"><img src="https://img.shields.io/badge/-NEXT-black?style=for-the-badge&logo=arrow-right&logoColor=white" /></a>
+</p>

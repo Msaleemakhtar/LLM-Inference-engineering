@@ -1,6 +1,10 @@
 # 23: Design Concepts in Cache Memory
 
-[⬅️ Previous Topic](../22%3A%20Block%20Replacement%20Techniques%20%26%20Write%20Strategy/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../24%3A%20Optimization%20Techniques%20in%20Cache%20Memory/README.md)
+<p align="center">
+  <a href="../22%3A%20Block%20Replacement%20Techniques%20%26%20Write%20Strategy/README.md"><img src="https://img.shields.io/badge/-PREVIOUS-black?style=for-the-badge&logo=arrow-left&logoColor=white" /></a>
+  <a href="../README.md"><img src="https://img.shields.io/badge/-MAIN%20MENU-black?style=for-the-badge" /></a>
+  <a href="../24%3A%20Optimization%20Techniques%20in%20Cache%20Memory/README.md"><img src="https://img.shields.io/badge/-NEXT-black?style=for-the-badge&logo=arrow-right&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -22,4 +26,9 @@
 ![Screenshot From 2026-05-01 16-08-36.png](./Screenshot%20From%202026-05-01%2016-08-36.png)
 
 ---
-[⬅️ Previous Topic](../22%3A%20Block%20Replacement%20Techniques%20%26%20Write%20Strategy/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../24%3A%20Optimization%20Techniques%20in%20Cache%20Memory/README.md)
+
+<p align="center">
+  <a href="../22%3A%20Block%20Replacement%20Techniques%20%26%20Write%20Strategy/README.md"><img src="https://img.shields.io/badge/-PREVIOUS-black?style=for-the-badge&logo=arrow-left&logoColor=white" /></a>
+  <a href="../README.md"><img src="https://img.shields.io/badge/-MAIN%20MENU-black?style=for-the-badge" /></a>
+  <a href="../24%3A%20Optimization%20Techniques%20in%20Cache%20Memory/README.md"><img src="https://img.shields.io/badge/-NEXT-black?style=for-the-badge&logo=arrow-right&logoColor=white" /></a>
+</p>

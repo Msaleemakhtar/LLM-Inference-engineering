@@ -1,6 +1,10 @@
 # 16.Static-and-Dynamic-Scheduling
 
-[⬅️ Previous Topic](../15.Dynamic-Scheduling-with-Speculative-Execution/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../17.Advanced-Pipelining%20%26%20Superscalar%20Processors/README.md)
+<p align="center">
+  <a href="../15.Dynamic-Scheduling-with-Speculative-Execution/README.md"><img src="https://img.shields.io/badge/-PREVIOUS-black?style=for-the-badge&logo=arrow-left&logoColor=white" /></a>
+  <a href="../README.md"><img src="https://img.shields.io/badge/-MAIN%20MENU-black?style=for-the-badge" /></a>
+  <a href="../17.Advanced-Pipelining%20%26%20Superscalar%20Processors/README.md"><img src="https://img.shields.io/badge/-NEXT-black?style=for-the-badge&logo=arrow-right&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -19,4 +23,9 @@
 ![Screenshot From 2026-04-25 12-40-37.png](./Screenshot%20From%202026-04-25%2012-40-37.png)
 
 ---
-[⬅️ Previous Topic](../15.Dynamic-Scheduling-with-Speculative-Execution/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../17.Advanced-Pipelining%20%26%20Superscalar%20Processors/README.md)
+
+<p align="center">
+  <a href="../15.Dynamic-Scheduling-with-Speculative-Execution/README.md"><img src="https://img.shields.io/badge/-PREVIOUS-black?style=for-the-badge&logo=arrow-left&logoColor=white" /></a>
+  <a href="../README.md"><img src="https://img.shields.io/badge/-MAIN%20MENU-black?style=for-the-badge" /></a>
+  <a href="../17.Advanced-Pipelining%20%26%20Superscalar%20Processors/README.md"><img src="https://img.shields.io/badge/-NEXT-black?style=for-the-badge&logo=arrow-right&logoColor=white" /></a>
+</p>

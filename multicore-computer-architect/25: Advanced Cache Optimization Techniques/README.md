@@ -1,6 +1,10 @@
 # 25: Advanced Cache Optimization Techniques
 
-[⬅️ Previous Topic](../24%3A%20Optimization%20Techniques%20in%20Cache%20Memory/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../26%3A%20Advanced%20Concepts%20in%20Cache%20Memory-1/README.md)
+<p align="center">
+  <a href="../24%3A%20Optimization%20Techniques%20in%20Cache%20Memory/README.md"><img src="https://img.shields.io/badge/-PREVIOUS-black?style=for-the-badge&logo=arrow-left&logoColor=white" /></a>
+  <a href="../README.md"><img src="https://img.shields.io/badge/-MAIN%20MENU-black?style=for-the-badge" /></a>
+  <a href="../26%3A%20Advanced%20Concepts%20in%20Cache%20Memory-1/README.md"><img src="https://img.shields.io/badge/-NEXT-black?style=for-the-badge&logo=arrow-right&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -19,4 +23,9 @@
 ![Screenshot From 2026-05-05 18-45-55.png](./Screenshot%20From%202026-05-05%2018-45-55.png)
 
 ---
-[⬅️ Previous Topic](../24%3A%20Optimization%20Techniques%20in%20Cache%20Memory/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../26%3A%20Advanced%20Concepts%20in%20Cache%20Memory-1/README.md)
+
+<p align="center">
+  <a href="../24%3A%20Optimization%20Techniques%20in%20Cache%20Memory/README.md"><img src="https://img.shields.io/badge/-PREVIOUS-black?style=for-the-badge&logo=arrow-left&logoColor=white" /></a>
+  <a href="../README.md"><img src="https://img.shields.io/badge/-MAIN%20MENU-black?style=for-the-badge" /></a>
+  <a href="../26%3A%20Advanced%20Concepts%20in%20Cache%20Memory-1/README.md"><img src="https://img.shields.io/badge/-NEXT-black?style=for-the-badge&logo=arrow-right&logoColor=white" /></a>
+</p>

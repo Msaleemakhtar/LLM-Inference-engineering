@@ -1,6 +1,10 @@
 # 37: Routing Techniques in Network On Chip
 
-[⬅️ Previous Topic](../36%3A%20Introduction%20to%20Tiled%20Chip%20Multicore%20Processors/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../38%3A%20Network%20On%20Chip%20Router%20Micro-Architecture/README.md)
+<p align="center">
+  <a href="../36%3A%20Introduction%20to%20Tiled%20Chip%20Multicore%20Processors/README.md"><img src="https://img.shields.io/badge/-PREVIOUS-black?style=for-the-badge&logo=arrow-left&logoColor=white" /></a>
+  <a href="../README.md"><img src="https://img.shields.io/badge/-MAIN%20MENU-black?style=for-the-badge" /></a>
+  <a href="../38%3A%20Network%20On%20Chip%20Router%20Micro-Architecture/README.md"><img src="https://img.shields.io/badge/-NEXT-black?style=for-the-badge&logo=arrow-right&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -29,4 +33,9 @@
 ![Screenshot From 2026-05-14 01-20-49.png](./Screenshot%20From%202026-05-14%2001-20-49.png)
 
 ---
-[⬅️ Previous Topic](../36%3A%20Introduction%20to%20Tiled%20Chip%20Multicore%20Processors/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../38%3A%20Network%20On%20Chip%20Router%20Micro-Architecture/README.md)
+
+<p align="center">
+  <a href="../36%3A%20Introduction%20to%20Tiled%20Chip%20Multicore%20Processors/README.md"><img src="https://img.shields.io/badge/-PREVIOUS-black?style=for-the-badge&logo=arrow-left&logoColor=white" /></a>
+  <a href="../README.md"><img src="https://img.shields.io/badge/-MAIN%20MENU-black?style=for-the-badge" /></a>
+  <a href="../38%3A%20Network%20On%20Chip%20Router%20Micro-Architecture/README.md"><img src="https://img.shields.io/badge/-NEXT-black?style=for-the-badge&logo=arrow-right&logoColor=white" /></a>
+</p>

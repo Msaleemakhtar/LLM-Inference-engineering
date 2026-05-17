@@ -1,6 +1,10 @@
 # 11.longer-Pipeline-and-branch-prediction
 
-[⬅️ Previous Topic](../10.MIPS-Pipeline-for-Multi-Cycle-Operations/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../12.%20Compiler-Techniques-to-Explore-ILP/README.md)
+<p align="center">
+  <a href="../10.MIPS-Pipeline-for-Multi-Cycle-Operations/README.md"><img src="https://img.shields.io/badge/-PREVIOUS-black?style=for-the-badge&logo=arrow-left&logoColor=white" /></a>
+  <a href="../README.md"><img src="https://img.shields.io/badge/-MAIN%20MENU-black?style=for-the-badge" /></a>
+  <a href="../12.%20Compiler-Techniques-to-Explore-ILP/README.md"><img src="https://img.shields.io/badge/-NEXT-black?style=for-the-badge&logo=arrow-right&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -22,4 +26,9 @@
 ![Screenshot From 2026-04-16 10-03-56.png](./Screenshot%20From%202026-04-16%2010-03-56.png)
 
 ---
-[⬅️ Previous Topic](../10.MIPS-Pipeline-for-Multi-Cycle-Operations/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../12.%20Compiler-Techniques-to-Explore-ILP/README.md)
+
+<p align="center">
+  <a href="../10.MIPS-Pipeline-for-Multi-Cycle-Operations/README.md"><img src="https://img.shields.io/badge/-PREVIOUS-black?style=for-the-badge&logo=arrow-left&logoColor=white" /></a>
+  <a href="../README.md"><img src="https://img.shields.io/badge/-MAIN%20MENU-black?style=for-the-badge" /></a>
+  <a href="../12.%20Compiler-Techniques-to-Explore-ILP/README.md"><img src="https://img.shields.io/badge/-NEXT-black?style=for-the-badge&logo=arrow-right&logoColor=white" /></a>
+</p>

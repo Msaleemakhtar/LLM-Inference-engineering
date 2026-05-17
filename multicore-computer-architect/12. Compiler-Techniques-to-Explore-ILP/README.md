@@ -1,6 +1,10 @@
 # 12. Compiler-Techniques-to-Explore-ILP
 
-[⬅️ Previous Topic](../11.longer-Pipeline-and-branch-prediction/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../13.Dynamic-Scheduling-to-Explore-ILP/README.md)
+<p align="center">
+  <a href="../11.longer-Pipeline-and-branch-prediction/README.md"><img src="https://img.shields.io/badge/-PREVIOUS-black?style=for-the-badge&logo=arrow-left&logoColor=white" /></a>
+  <a href="../README.md"><img src="https://img.shields.io/badge/-MAIN%20MENU-black?style=for-the-badge" /></a>
+  <a href="../13.Dynamic-Scheduling-to-Explore-ILP/README.md"><img src="https://img.shields.io/badge/-NEXT-black?style=for-the-badge&logo=arrow-right&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -26,4 +30,9 @@
 ![Screenshot From 2026-04-17 03-42-49.png](./Screenshot%20From%202026-04-17%2003-42-49.png)
 
 ---
-[⬅️ Previous Topic](../11.longer-Pipeline-and-branch-prediction/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../13.Dynamic-Scheduling-to-Explore-ILP/README.md)
+
+<p align="center">
+  <a href="../11.longer-Pipeline-and-branch-prediction/README.md"><img src="https://img.shields.io/badge/-PREVIOUS-black?style=for-the-badge&logo=arrow-left&logoColor=white" /></a>
+  <a href="../README.md"><img src="https://img.shields.io/badge/-MAIN%20MENU-black?style=for-the-badge" /></a>
+  <a href="../13.Dynamic-Scheduling-to-Explore-ILP/README.md"><img src="https://img.shields.io/badge/-NEXT-black?style=for-the-badge&logo=arrow-right&logoColor=white" /></a>
+</p>

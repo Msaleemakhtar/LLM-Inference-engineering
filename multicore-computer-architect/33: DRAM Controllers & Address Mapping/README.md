@@ -1,6 +1,10 @@
 # 33: DRAM Controllers & Address Mapping
 
-[⬅️ Previous Topic](../32%3A%20Introduction%20to%20DRAM%20System/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../34%3A%20Secondary%20Storage%20Systems/README.md)
+<p align="center">
+  <a href="../32%3A%20Introduction%20to%20DRAM%20System/README.md"><img src="https://img.shields.io/badge/-PREVIOUS-black?style=for-the-badge&logo=arrow-left&logoColor=white" /></a>
+  <a href="../README.md"><img src="https://img.shields.io/badge/-MAIN%20MENU-black?style=for-the-badge" /></a>
+  <a href="../34%3A%20Secondary%20Storage%20Systems/README.md"><img src="https://img.shields.io/badge/-NEXT-black?style=for-the-badge&logo=arrow-right&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -31,4 +35,9 @@
 ![Screenshot From 2026-05-13 01-13-43.png](./Screenshot%20From%202026-05-13%2001-13-43.png)
 
 ---
-[⬅️ Previous Topic](../32%3A%20Introduction%20to%20DRAM%20System/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../34%3A%20Secondary%20Storage%20Systems/README.md)
+
+<p align="center">
+  <a href="../32%3A%20Introduction%20to%20DRAM%20System/README.md"><img src="https://img.shields.io/badge/-PREVIOUS-black?style=for-the-badge&logo=arrow-left&logoColor=white" /></a>
+  <a href="../README.md"><img src="https://img.shields.io/badge/-MAIN%20MENU-black?style=for-the-badge" /></a>
+  <a href="../34%3A%20Secondary%20Storage%20Systems/README.md"><img src="https://img.shields.io/badge/-NEXT-black?style=for-the-badge&logo=arrow-right&logoColor=white" /></a>
+</p>

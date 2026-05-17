@@ -1,6 +1,10 @@
 # 13.Dynamic-Scheduling-to-Explore-ILP
 
-[⬅️ Previous Topic](../12.%20Compiler-Techniques-to-Explore-ILP/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../14.Dynamic-Scheduling-with-Tomasulo%E2%80%99s%20Algorithm/README.md)
+<p align="center">
+  <a href="../12.%20Compiler-Techniques-to-Explore-ILP/README.md"><img src="https://img.shields.io/badge/-PREVIOUS-black?style=for-the-badge&logo=arrow-left&logoColor=white" /></a>
+  <a href="../README.md"><img src="https://img.shields.io/badge/-MAIN%20MENU-black?style=for-the-badge" /></a>
+  <a href="../14.Dynamic-Scheduling-with-Tomasulo%E2%80%99s%20Algorithm/README.md"><img src="https://img.shields.io/badge/-NEXT-black?style=for-the-badge&logo=arrow-right&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -24,4 +28,9 @@
 ![Screenshot From 2026-04-17 06-56-44.png](./Screenshot%20From%202026-04-17%2006-56-44.png)
 
 ---
-[⬅️ Previous Topic](../12.%20Compiler-Techniques-to-Explore-ILP/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../14.Dynamic-Scheduling-with-Tomasulo%E2%80%99s%20Algorithm/README.md)
+
+<p align="center">
+  <a href="../12.%20Compiler-Techniques-to-Explore-ILP/README.md"><img src="https://img.shields.io/badge/-PREVIOUS-black?style=for-the-badge&logo=arrow-left&logoColor=white" /></a>
+  <a href="../README.md"><img src="https://img.shields.io/badge/-MAIN%20MENU-black?style=for-the-badge" /></a>
+  <a href="../14.Dynamic-Scheduling-with-Tomasulo%E2%80%99s%20Algorithm/README.md"><img src="https://img.shields.io/badge/-NEXT-black?style=for-the-badge&logo=arrow-right&logoColor=white" /></a>
+</p>

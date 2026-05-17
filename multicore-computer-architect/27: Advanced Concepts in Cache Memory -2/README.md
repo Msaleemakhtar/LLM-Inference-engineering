@@ -1,6 +1,10 @@
 # 27: Advanced Concepts in Cache Memory -2
 
-[⬅️ Previous Topic](../26%3A%20Advanced%20Concepts%20in%20Cache%20Memory-1/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../28%3A%20Cache%20coherence%20and%20memory%20consistency/README.md)
+<p align="center">
+  <a href="../26%3A%20Advanced%20Concepts%20in%20Cache%20Memory-1/README.md"><img src="https://img.shields.io/badge/-PREVIOUS-black?style=for-the-badge&logo=arrow-left&logoColor=white" /></a>
+  <a href="../README.md"><img src="https://img.shields.io/badge/-MAIN%20MENU-black?style=for-the-badge" /></a>
+  <a href="../28%3A%20Cache%20coherence%20and%20memory%20consistency/README.md"><img src="https://img.shields.io/badge/-NEXT-black?style=for-the-badge&logo=arrow-right&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -19,4 +23,9 @@
 ![Screenshot From 2026-05-09 17-54-37.png](./Screenshot%20From%202026-05-09%2017-54-37.png)
 
 ---
-[⬅️ Previous Topic](../26%3A%20Advanced%20Concepts%20in%20Cache%20Memory-1/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../28%3A%20Cache%20coherence%20and%20memory%20consistency/README.md)
+
+<p align="center">
+  <a href="../26%3A%20Advanced%20Concepts%20in%20Cache%20Memory-1/README.md"><img src="https://img.shields.io/badge/-PREVIOUS-black?style=for-the-badge&logo=arrow-left&logoColor=white" /></a>
+  <a href="../README.md"><img src="https://img.shields.io/badge/-MAIN%20MENU-black?style=for-the-badge" /></a>
+  <a href="../28%3A%20Cache%20coherence%20and%20memory%20consistency/README.md"><img src="https://img.shields.io/badge/-NEXT-black?style=for-the-badge&logo=arrow-right&logoColor=white" /></a>
+</p>

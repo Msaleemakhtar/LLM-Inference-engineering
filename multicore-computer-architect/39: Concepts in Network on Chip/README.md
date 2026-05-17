@@ -1,6 +1,10 @@
 # 39: Concepts in Network on Chip
 
-[⬅️ Previous Topic](../38%3A%20Network%20On%20Chip%20Router%20Micro-Architecture/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../40%3A%20Energy%20Efficient%20Bufferless%20NoC%20Routers/README.md)
+<p align="center">
+  <a href="../38%3A%20Network%20On%20Chip%20Router%20Micro-Architecture/README.md"><img src="https://img.shields.io/badge/-PREVIOUS-black?style=for-the-badge&logo=arrow-left&logoColor=white" /></a>
+  <a href="../README.md"><img src="https://img.shields.io/badge/-MAIN%20MENU-black?style=for-the-badge" /></a>
+  <a href="../40%3A%20Energy%20Efficient%20Bufferless%20NoC%20Routers/README.md"><img src="https://img.shields.io/badge/-NEXT-black?style=for-the-badge&logo=arrow-right&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -23,4 +27,9 @@
 ![Screenshot From 2026-05-14 23-40-14.png](./Screenshot%20From%202026-05-14%2023-40-14.png)
 
 ---
-[⬅️ Previous Topic](../38%3A%20Network%20On%20Chip%20Router%20Micro-Architecture/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../40%3A%20Energy%20Efficient%20Bufferless%20NoC%20Routers/README.md)
+
+<p align="center">
+  <a href="../38%3A%20Network%20On%20Chip%20Router%20Micro-Architecture/README.md"><img src="https://img.shields.io/badge/-PREVIOUS-black?style=for-the-badge&logo=arrow-left&logoColor=white" /></a>
+  <a href="../README.md"><img src="https://img.shields.io/badge/-MAIN%20MENU-black?style=for-the-badge" /></a>
+  <a href="../40%3A%20Energy%20Efficient%20Bufferless%20NoC%20Routers/README.md"><img src="https://img.shields.io/badge/-NEXT-black?style=for-the-badge&logo=arrow-right&logoColor=white" /></a>
+</p>

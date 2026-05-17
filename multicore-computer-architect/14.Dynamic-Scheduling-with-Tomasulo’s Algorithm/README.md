@@ -1,6 +1,10 @@
 # 14.Dynamic-Scheduling-with-Tomasulo’s Algorithm
 
-[⬅️ Previous Topic](../13.Dynamic-Scheduling-to-Explore-ILP/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../15.Dynamic-Scheduling-with-Speculative-Execution/README.md)
+<p align="center">
+  <a href="../13.Dynamic-Scheduling-to-Explore-ILP/README.md"><img src="https://img.shields.io/badge/-PREVIOUS-black?style=for-the-badge&logo=arrow-left&logoColor=white" /></a>
+  <a href="../README.md"><img src="https://img.shields.io/badge/-MAIN%20MENU-black?style=for-the-badge" /></a>
+  <a href="../15.Dynamic-Scheduling-with-Speculative-Execution/README.md"><img src="https://img.shields.io/badge/-NEXT-black?style=for-the-badge&logo=arrow-right&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -25,4 +29,9 @@
 ![Screenshot From 2026-04-23 17-47-00.png](./Screenshot%20From%202026-04-23%2017-47-00.png)
 
 ---
-[⬅️ Previous Topic](../13.Dynamic-Scheduling-to-Explore-ILP/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../15.Dynamic-Scheduling-with-Speculative-Execution/README.md)
+
+<p align="center">
+  <a href="../13.Dynamic-Scheduling-to-Explore-ILP/README.md"><img src="https://img.shields.io/badge/-PREVIOUS-black?style=for-the-badge&logo=arrow-left&logoColor=white" /></a>
+  <a href="../README.md"><img src="https://img.shields.io/badge/-MAIN%20MENU-black?style=for-the-badge" /></a>
+  <a href="../15.Dynamic-Scheduling-with-Speculative-Execution/README.md"><img src="https://img.shields.io/badge/-NEXT-black?style=for-the-badge&logo=arrow-right&logoColor=white" /></a>
+</p>

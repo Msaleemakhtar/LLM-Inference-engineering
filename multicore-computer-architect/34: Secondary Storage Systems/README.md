@@ -1,6 +1,10 @@
 # 34: Secondary Storage Systems
 
-[⬅️ Previous Topic](../33%3A%20DRAM%20Controllers%20%26%20Address%20Mapping/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../35%3A%20Design%20Concepts%20in%20Storage%20Systems/README.md)
+<p align="center">
+  <a href="../33%3A%20DRAM%20Controllers%20%26%20Address%20Mapping/README.md"><img src="https://img.shields.io/badge/-PREVIOUS-black?style=for-the-badge&logo=arrow-left&logoColor=white" /></a>
+  <a href="../README.md"><img src="https://img.shields.io/badge/-MAIN%20MENU-black?style=for-the-badge" /></a>
+  <a href="../35%3A%20Design%20Concepts%20in%20Storage%20Systems/README.md"><img src="https://img.shields.io/badge/-NEXT-black?style=for-the-badge&logo=arrow-right&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -12,4 +16,9 @@
 ![Screenshot From 2026-05-13 06-59-26.png](./Screenshot%20From%202026-05-13%2006-59-26.png)
 
 ---
-[⬅️ Previous Topic](../33%3A%20DRAM%20Controllers%20%26%20Address%20Mapping/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../35%3A%20Design%20Concepts%20in%20Storage%20Systems/README.md)
+
+<p align="center">
+  <a href="../33%3A%20DRAM%20Controllers%20%26%20Address%20Mapping/README.md"><img src="https://img.shields.io/badge/-PREVIOUS-black?style=for-the-badge&logo=arrow-left&logoColor=white" /></a>
+  <a href="../README.md"><img src="https://img.shields.io/badge/-MAIN%20MENU-black?style=for-the-badge" /></a>
+  <a href="../35%3A%20Design%20Concepts%20in%20Storage%20Systems/README.md"><img src="https://img.shields.io/badge/-NEXT-black?style=for-the-badge&logo=arrow-right&logoColor=white" /></a>
+</p>

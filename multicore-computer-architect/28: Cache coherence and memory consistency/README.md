@@ -1,6 +1,10 @@
 # 28: Cache coherence and memory consistency
 
-[⬅️ Previous Topic](../27%3A%20Advanced%20Concepts%20in%20Cache%20Memory%20-2/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../29%3A%20Design%20Space%20for%20snooping%20protocols/README.md)
+<p align="center">
+  <a href="../27%3A%20Advanced%20Concepts%20in%20Cache%20Memory%20-2/README.md"><img src="https://img.shields.io/badge/-PREVIOUS-black?style=for-the-badge&logo=arrow-left&logoColor=white" /></a>
+  <a href="../README.md"><img src="https://img.shields.io/badge/-MAIN%20MENU-black?style=for-the-badge" /></a>
+  <a href="../29%3A%20Design%20Space%20for%20snooping%20protocols/README.md"><img src="https://img.shields.io/badge/-NEXT-black?style=for-the-badge&logo=arrow-right&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -23,4 +27,9 @@
 ![Screenshot From 2026-05-10 03-14-36.png](./Screenshot%20From%202026-05-10%2003-14-36.png)
 
 ---
-[⬅️ Previous Topic](../27%3A%20Advanced%20Concepts%20in%20Cache%20Memory%20-2/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../29%3A%20Design%20Space%20for%20snooping%20protocols/README.md)
+
+<p align="center">
+  <a href="../27%3A%20Advanced%20Concepts%20in%20Cache%20Memory%20-2/README.md"><img src="https://img.shields.io/badge/-PREVIOUS-black?style=for-the-badge&logo=arrow-left&logoColor=white" /></a>
+  <a href="../README.md"><img src="https://img.shields.io/badge/-MAIN%20MENU-black?style=for-the-badge" /></a>
+  <a href="../29%3A%20Design%20Space%20for%20snooping%20protocols/README.md"><img src="https://img.shields.io/badge/-NEXT-black?style=for-the-badge&logo=arrow-right&logoColor=white" /></a>
+</p>

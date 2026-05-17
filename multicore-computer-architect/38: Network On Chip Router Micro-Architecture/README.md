@@ -1,6 +1,10 @@
 # 38: Network On Chip Router Micro-Architecture
 
-[⬅️ Previous Topic](../37%3A%20Routing%20Techniques%20in%20Network%20On%20Chip/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../39%3A%20Concepts%20in%20Network%20on%20Chip/README.md)
+<p align="center">
+  <a href="../37%3A%20Routing%20Techniques%20in%20Network%20On%20Chip/README.md"><img src="https://img.shields.io/badge/-PREVIOUS-black?style=for-the-badge&logo=arrow-left&logoColor=white" /></a>
+  <a href="../README.md"><img src="https://img.shields.io/badge/-MAIN%20MENU-black?style=for-the-badge" /></a>
+  <a href="../39%3A%20Concepts%20in%20Network%20on%20Chip/README.md"><img src="https://img.shields.io/badge/-NEXT-black?style=for-the-badge&logo=arrow-right&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -61,4 +65,9 @@
 ![Screenshot From 2026-05-14 22-42-35.png](./Screenshot%20From%202026-05-14%2022-42-35.png)
 
 ---
-[⬅️ Previous Topic](../37%3A%20Routing%20Techniques%20in%20Network%20On%20Chip/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../39%3A%20Concepts%20in%20Network%20on%20Chip/README.md)
+
+<p align="center">
+  <a href="../37%3A%20Routing%20Techniques%20in%20Network%20On%20Chip/README.md"><img src="https://img.shields.io/badge/-PREVIOUS-black?style=for-the-badge&logo=arrow-left&logoColor=white" /></a>
+  <a href="../README.md"><img src="https://img.shields.io/badge/-MAIN%20MENU-black?style=for-the-badge" /></a>
+  <a href="../39%3A%20Concepts%20in%20Network%20on%20Chip/README.md"><img src="https://img.shields.io/badge/-NEXT-black?style=for-the-badge&logo=arrow-right&logoColor=white" /></a>
+</p>
