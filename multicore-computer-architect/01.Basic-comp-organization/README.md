@@ -1,8 +1,7 @@
 # 01.Basic-comp-organization
 
 <p align="center">
-  <a href="../README.md"><img src="https://img.shields.io/badge/-MAIN%20MENU-black?style=for-the-badge" /></a>
-  <a href="../02.Instruction-set-%26-addressing-mode/README.md"><img src="https://img.shields.io/badge/-NEXT-black?style=for-the-badge&logo=arrow-right&logoColor=white" /></a>
+  <b><a href="../README.md">📚 MAIN MENU</a></b> &nbsp; | &nbsp; <b><a href="../02.Instruction-set-%26-addressing-mode/README.md">NEXT TOPIC ⏩</a></b>
 </p>
 
 ---
@@ -33,6 +32,5 @@
 ---
 
 <p align="center">
-  <a href="../README.md"><img src="https://img.shields.io/badge/-MAIN%20MENU-black?style=for-the-badge" /></a>
-  <a href="../02.Instruction-set-%26-addressing-mode/README.md"><img src="https://img.shields.io/badge/-NEXT-black?style=for-the-badge&logo=arrow-right&logoColor=white" /></a>
+  <b><a href="../README.md">📚 MAIN MENU</a></b> &nbsp; | &nbsp; <b><a href="../02.Instruction-set-%26-addressing-mode/README.md">NEXT TOPIC ⏩</a></b>
 </p>

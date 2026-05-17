@@ -1,9 +1,7 @@
 # 08.Instruction-pipline-hazards-2
 
 <p align="center">
-  <a href="../07.Instruction-pipline-hazards-1/README.md"><img src="https://img.shields.io/badge/-PREVIOUS-black?style=for-the-badge&logo=arrow-left&logoColor=white" /></a>
-  <a href="../README.md"><img src="https://img.shields.io/badge/-MAIN%20MENU-black?style=for-the-badge" /></a>
-  <a href="../09.control-hazard-and-branch-prediction/README.md"><img src="https://img.shields.io/badge/-NEXT-black?style=for-the-badge&logo=arrow-right&logoColor=white" /></a>
+  <b><a href="../07.Instruction-pipline-hazards-1/README.md">⏪ PREVIOUS TOPIC</a></b> &nbsp; | &nbsp; <b><a href="../README.md">📚 MAIN MENU</a></b> &nbsp; | &nbsp; <b><a href="../09.control-hazard-and-branch-prediction/README.md">NEXT TOPIC ⏩</a></b>
 </p>
 
 ---
@@ -44,7 +42,5 @@
 ---
 
 <p align="center">
-  <a href="../07.Instruction-pipline-hazards-1/README.md"><img src="https://img.shields.io/badge/-PREVIOUS-black?style=for-the-badge&logo=arrow-left&logoColor=white" /></a>
-  <a href="../README.md"><img src="https://img.shields.io/badge/-MAIN%20MENU-black?style=for-the-badge" /></a>
-  <a href="../09.control-hazard-and-branch-prediction/README.md"><img src="https://img.shields.io/badge/-NEXT-black?style=for-the-badge&logo=arrow-right&logoColor=white" /></a>
+  <b><a href="../07.Instruction-pipline-hazards-1/README.md">⏪ PREVIOUS TOPIC</a></b> &nbsp; | &nbsp; <b><a href="../README.md">📚 MAIN MENU</a></b> &nbsp; | &nbsp; <b><a href="../09.control-hazard-and-branch-prediction/README.md">NEXT TOPIC ⏩</a></b>
 </p>

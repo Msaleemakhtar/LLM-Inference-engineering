@@ -1,9 +1,7 @@
 # 14.Dynamic-Scheduling-with-Tomasulo’s Algorithm
 
 <p align="center">
-  <a href="../13.Dynamic-Scheduling-to-Explore-ILP/README.md"><img src="https://img.shields.io/badge/-PREVIOUS-black?style=for-the-badge&logo=arrow-left&logoColor=white" /></a>
-  <a href="../README.md"><img src="https://img.shields.io/badge/-MAIN%20MENU-black?style=for-the-badge" /></a>
-  <a href="../15.Dynamic-Scheduling-with-Speculative-Execution/README.md"><img src="https://img.shields.io/badge/-NEXT-black?style=for-the-badge&logo=arrow-right&logoColor=white" /></a>
+  <b><a href="../13.Dynamic-Scheduling-to-Explore-ILP/README.md">⏪ PREVIOUS TOPIC</a></b> &nbsp; | &nbsp; <b><a href="../README.md">📚 MAIN MENU</a></b> &nbsp; | &nbsp; <b><a href="../15.Dynamic-Scheduling-with-Speculative-Execution/README.md">NEXT TOPIC ⏩</a></b>
 </p>
 
 ---
@@ -31,7 +29,5 @@
 ---
 
 <p align="center">
-  <a href="../13.Dynamic-Scheduling-to-Explore-ILP/README.md"><img src="https://img.shields.io/badge/-PREVIOUS-black?style=for-the-badge&logo=arrow-left&logoColor=white" /></a>
-  <a href="../README.md"><img src="https://img.shields.io/badge/-MAIN%20MENU-black?style=for-the-badge" /></a>
-  <a href="../15.Dynamic-Scheduling-with-Speculative-Execution/README.md"><img src="https://img.shields.io/badge/-NEXT-black?style=for-the-badge&logo=arrow-right&logoColor=white" /></a>
+  <b><a href="../13.Dynamic-Scheduling-to-Explore-ILP/README.md">⏪ PREVIOUS TOPIC</a></b> &nbsp; | &nbsp; <b><a href="../README.md">📚 MAIN MENU</a></b> &nbsp; | &nbsp; <b><a href="../15.Dynamic-Scheduling-with-Speculative-Execution/README.md">NEXT TOPIC ⏩</a></b>
 </p>

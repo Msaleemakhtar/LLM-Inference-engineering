@@ -1,9 +1,7 @@
 # 23: Design Concepts in Cache Memory
 
 <p align="center">
-  <a href="../22%3A%20Block%20Replacement%20Techniques%20%26%20Write%20Strategy/README.md"><img src="https://img.shields.io/badge/-PREVIOUS-black?style=for-the-badge&logo=arrow-left&logoColor=white" /></a>
-  <a href="../README.md"><img src="https://img.shields.io/badge/-MAIN%20MENU-black?style=for-the-badge" /></a>
-  <a href="../24%3A%20Optimization%20Techniques%20in%20Cache%20Memory/README.md"><img src="https://img.shields.io/badge/-NEXT-black?style=for-the-badge&logo=arrow-right&logoColor=white" /></a>
+  <b><a href="../22%3A%20Block%20Replacement%20Techniques%20%26%20Write%20Strategy/README.md">⏪ PREVIOUS TOPIC</a></b> &nbsp; | &nbsp; <b><a href="../README.md">📚 MAIN MENU</a></b> &nbsp; | &nbsp; <b><a href="../24%3A%20Optimization%20Techniques%20in%20Cache%20Memory/README.md">NEXT TOPIC ⏩</a></b>
 </p>
 
 ---
@@ -28,7 +26,5 @@
 ---
 
 <p align="center">
-  <a href="../22%3A%20Block%20Replacement%20Techniques%20%26%20Write%20Strategy/README.md"><img src="https://img.shields.io/badge/-PREVIOUS-black?style=for-the-badge&logo=arrow-left&logoColor=white" /></a>
-  <a href="../README.md"><img src="https://img.shields.io/badge/-MAIN%20MENU-black?style=for-the-badge" /></a>
-  <a href="../24%3A%20Optimization%20Techniques%20in%20Cache%20Memory/README.md"><img src="https://img.shields.io/badge/-NEXT-black?style=for-the-badge&logo=arrow-right&logoColor=white" /></a>
+  <b><a href="../22%3A%20Block%20Replacement%20Techniques%20%26%20Write%20Strategy/README.md">⏪ PREVIOUS TOPIC</a></b> &nbsp; | &nbsp; <b><a href="../README.md">📚 MAIN MENU</a></b> &nbsp; | &nbsp; <b><a href="../24%3A%20Optimization%20Techniques%20in%20Cache%20Memory/README.md">NEXT TOPIC ⏩</a></b>
 </p>

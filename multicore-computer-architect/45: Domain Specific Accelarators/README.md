@@ -1,8 +1,7 @@
 # 45: Domain Specific Accelarators
 
 <p align="center">
-  <a href="../44%3A%20Emerging%20Trends%20in%20Network%20On%20Chips/README.md"><img src="https://img.shields.io/badge/-PREVIOUS-black?style=for-the-badge&logo=arrow-left&logoColor=white" /></a>
-  <a href="../README.md"><img src="https://img.shields.io/badge/-MAIN%20MENU-black?style=for-the-badge" /></a>
+  <b><a href="../44%3A%20Emerging%20Trends%20in%20Network%20On%20Chips/README.md">⏪ PREVIOUS TOPIC</a></b> &nbsp; | &nbsp; <b><a href="../README.md">📚 MAIN MENU</a></b>
 </p>
 
 ---
@@ -27,6 +26,5 @@
 ---
 
 <p align="center">
-  <a href="../44%3A%20Emerging%20Trends%20in%20Network%20On%20Chips/README.md"><img src="https://img.shields.io/badge/-PREVIOUS-black?style=for-the-badge&logo=arrow-left&logoColor=white" /></a>
-  <a href="../README.md"><img src="https://img.shields.io/badge/-MAIN%20MENU-black?style=for-the-badge" /></a>
+  <b><a href="../44%3A%20Emerging%20Trends%20in%20Network%20On%20Chips/README.md">⏪ PREVIOUS TOPIC</a></b> &nbsp; | &nbsp; <b><a href="../README.md">📚 MAIN MENU</a></b>
 </p>

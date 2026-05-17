@@ -1,9 +1,7 @@
 # 44: Emerging Trends in Network On Chips
 
 <p align="center">
-  <a href="../43%3A%20QoS%20of%20NoC%20and%20Caches%20in%20TCMP%20Systems/README.md"><img src="https://img.shields.io/badge/-PREVIOUS-black?style=for-the-badge&logo=arrow-left&logoColor=white" /></a>
-  <a href="../README.md"><img src="https://img.shields.io/badge/-MAIN%20MENU-black?style=for-the-badge" /></a>
-  <a href="../45%3A%20Domain%20Specific%20Accelarators/README.md"><img src="https://img.shields.io/badge/-NEXT-black?style=for-the-badge&logo=arrow-right&logoColor=white" /></a>
+  <b><a href="../43%3A%20QoS%20of%20NoC%20and%20Caches%20in%20TCMP%20Systems/README.md">⏪ PREVIOUS TOPIC</a></b> &nbsp; | &nbsp; <b><a href="../README.md">📚 MAIN MENU</a></b> &nbsp; | &nbsp; <b><a href="../45%3A%20Domain%20Specific%20Accelarators/README.md">NEXT TOPIC ⏩</a></b>
 </p>
 
 ---
@@ -62,7 +60,5 @@
 ---
 
 <p align="center">
-  <a href="../43%3A%20QoS%20of%20NoC%20and%20Caches%20in%20TCMP%20Systems/README.md"><img src="https://img.shields.io/badge/-PREVIOUS-black?style=for-the-badge&logo=arrow-left&logoColor=white" /></a>
-  <a href="../README.md"><img src="https://img.shields.io/badge/-MAIN%20MENU-black?style=for-the-badge" /></a>
-  <a href="../45%3A%20Domain%20Specific%20Accelarators/README.md"><img src="https://img.shields.io/badge/-NEXT-black?style=for-the-badge&logo=arrow-right&logoColor=white" /></a>
+  <b><a href="../43%3A%20QoS%20of%20NoC%20and%20Caches%20in%20TCMP%20Systems/README.md">⏪ PREVIOUS TOPIC</a></b> &nbsp; | &nbsp; <b><a href="../README.md">📚 MAIN MENU</a></b> &nbsp; | &nbsp; <b><a href="../45%3A%20Domain%20Specific%20Accelarators/README.md">NEXT TOPIC ⏩</a></b>
 </p>

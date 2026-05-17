@@ -1,9 +1,7 @@
 # 16.Static-and-Dynamic-Scheduling
 
 <p align="center">
-  <a href="../15.Dynamic-Scheduling-with-Speculative-Execution/README.md"><img src="https://img.shields.io/badge/-PREVIOUS-black?style=for-the-badge&logo=arrow-left&logoColor=white" /></a>
-  <a href="../README.md"><img src="https://img.shields.io/badge/-MAIN%20MENU-black?style=for-the-badge" /></a>
-  <a href="../17.Advanced-Pipelining%20%26%20Superscalar%20Processors/README.md"><img src="https://img.shields.io/badge/-NEXT-black?style=for-the-badge&logo=arrow-right&logoColor=white" /></a>
+  <b><a href="../15.Dynamic-Scheduling-with-Speculative-Execution/README.md">⏪ PREVIOUS TOPIC</a></b> &nbsp; | &nbsp; <b><a href="../README.md">📚 MAIN MENU</a></b> &nbsp; | &nbsp; <b><a href="../17.Advanced-Pipelining%20%26%20Superscalar%20Processors/README.md">NEXT TOPIC ⏩</a></b>
 </p>
 
 ---
@@ -25,7 +23,5 @@
 ---
 
 <p align="center">
-  <a href="../15.Dynamic-Scheduling-with-Speculative-Execution/README.md"><img src="https://img.shields.io/badge/-PREVIOUS-black?style=for-the-badge&logo=arrow-left&logoColor=white" /></a>
-  <a href="../README.md"><img src="https://img.shields.io/badge/-MAIN%20MENU-black?style=for-the-badge" /></a>
-  <a href="../17.Advanced-Pipelining%20%26%20Superscalar%20Processors/README.md"><img src="https://img.shields.io/badge/-NEXT-black?style=for-the-badge&logo=arrow-right&logoColor=white" /></a>
+  <b><a href="../15.Dynamic-Scheduling-with-Speculative-Execution/README.md">⏪ PREVIOUS TOPIC</a></b> &nbsp; | &nbsp; <b><a href="../README.md">📚 MAIN MENU</a></b> &nbsp; | &nbsp; <b><a href="../17.Advanced-Pipelining%20%26%20Superscalar%20Processors/README.md">NEXT TOPIC ⏩</a></b>
 </p>

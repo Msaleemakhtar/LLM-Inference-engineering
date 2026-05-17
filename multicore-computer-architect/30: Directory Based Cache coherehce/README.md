@@ -1,9 +1,7 @@
 # 30: Directory Based Cache coherehce
 
 <p align="center">
-  <a href="../29%3A%20Design%20Space%20for%20snooping%20protocols/README.md"><img src="https://img.shields.io/badge/-PREVIOUS-black?style=for-the-badge&logo=arrow-left&logoColor=white" /></a>
-  <a href="../README.md"><img src="https://img.shields.io/badge/-MAIN%20MENU-black?style=for-the-badge" /></a>
-  <a href="../31%3A%20Cache%20coherence%20in%20multiprocessor%20design%20%5BT%5D/README.md"><img src="https://img.shields.io/badge/-NEXT-black?style=for-the-badge&logo=arrow-right&logoColor=white" /></a>
+  <b><a href="../29%3A%20Design%20Space%20for%20snooping%20protocols/README.md">⏪ PREVIOUS TOPIC</a></b> &nbsp; | &nbsp; <b><a href="../README.md">📚 MAIN MENU</a></b> &nbsp; | &nbsp; <b><a href="../31%3A%20Cache%20coherence%20in%20multiprocessor%20design%20%5BT%5D/README.md">NEXT TOPIC ⏩</a></b>
 </p>
 
 ---
@@ -38,7 +36,5 @@
 ---
 
 <p align="center">
-  <a href="../29%3A%20Design%20Space%20for%20snooping%20protocols/README.md"><img src="https://img.shields.io/badge/-PREVIOUS-black?style=for-the-badge&logo=arrow-left&logoColor=white" /></a>
-  <a href="../README.md"><img src="https://img.shields.io/badge/-MAIN%20MENU-black?style=for-the-badge" /></a>
-  <a href="../31%3A%20Cache%20coherence%20in%20multiprocessor%20design%20%5BT%5D/README.md"><img src="https://img.shields.io/badge/-NEXT-black?style=for-the-badge&logo=arrow-right&logoColor=white" /></a>
+  <b><a href="../29%3A%20Design%20Space%20for%20snooping%20protocols/README.md">⏪ PREVIOUS TOPIC</a></b> &nbsp; | &nbsp; <b><a href="../README.md">📚 MAIN MENU</a></b> &nbsp; | &nbsp; <b><a href="../31%3A%20Cache%20coherence%20in%20multiprocessor%20design%20%5BT%5D/README.md">NEXT TOPIC ⏩</a></b>
 </p>

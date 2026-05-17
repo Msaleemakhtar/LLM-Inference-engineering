@@ -1,9 +1,7 @@
 # 43: QoS of NoC and Caches in TCMP Systems
 
 <p align="center">
-  <a href="../42%3A%20Concepts%20in%20Deflection%20Routers%20%5BT%5D/README.md"><img src="https://img.shields.io/badge/-PREVIOUS-black?style=for-the-badge&logo=arrow-left&logoColor=white" /></a>
-  <a href="../README.md"><img src="https://img.shields.io/badge/-MAIN%20MENU-black?style=for-the-badge" /></a>
-  <a href="../44%3A%20Emerging%20Trends%20in%20Network%20On%20Chips/README.md"><img src="https://img.shields.io/badge/-NEXT-black?style=for-the-badge&logo=arrow-right&logoColor=white" /></a>
+  <b><a href="../42%3A%20Concepts%20in%20Deflection%20Routers%20%5BT%5D/README.md">⏪ PREVIOUS TOPIC</a></b> &nbsp; | &nbsp; <b><a href="../README.md">📚 MAIN MENU</a></b> &nbsp; | &nbsp; <b><a href="../44%3A%20Emerging%20Trends%20in%20Network%20On%20Chips/README.md">NEXT TOPIC ⏩</a></b>
 </p>
 
 ---
@@ -83,7 +81,5 @@
 ---
 
 <p align="center">
-  <a href="../42%3A%20Concepts%20in%20Deflection%20Routers%20%5BT%5D/README.md"><img src="https://img.shields.io/badge/-PREVIOUS-black?style=for-the-badge&logo=arrow-left&logoColor=white" /></a>
-  <a href="../README.md"><img src="https://img.shields.io/badge/-MAIN%20MENU-black?style=for-the-badge" /></a>
-  <a href="../44%3A%20Emerging%20Trends%20in%20Network%20On%20Chips/README.md"><img src="https://img.shields.io/badge/-NEXT-black?style=for-the-badge&logo=arrow-right&logoColor=white" /></a>
+  <b><a href="../42%3A%20Concepts%20in%20Deflection%20Routers%20%5BT%5D/README.md">⏪ PREVIOUS TOPIC</a></b> &nbsp; | &nbsp; <b><a href="../README.md">📚 MAIN MENU</a></b> &nbsp; | &nbsp; <b><a href="../44%3A%20Emerging%20Trends%20in%20Network%20On%20Chips/README.md">NEXT TOPIC ⏩</a></b>
 </p>

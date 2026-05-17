@@ -1,9 +1,7 @@
 # 20. Superscalar processors and GPU
 
 <p align="center">
-  <a href="../19.%20Case%20study%20on%20GPU%20architectures/README.md"><img src="https://img.shields.io/badge/-PREVIOUS-black?style=for-the-badge&logo=arrow-left&logoColor=white" /></a>
-  <a href="../README.md"><img src="https://img.shields.io/badge/-MAIN%20MENU-black?style=for-the-badge" /></a>
-  <a href="../21.%20Introduction%20to%20Cache%20Memory/README.md"><img src="https://img.shields.io/badge/-NEXT-black?style=for-the-badge&logo=arrow-right&logoColor=white" /></a>
+  <b><a href="../19.%20Case%20study%20on%20GPU%20architectures/README.md">⏪ PREVIOUS TOPIC</a></b> &nbsp; | &nbsp; <b><a href="../README.md">📚 MAIN MENU</a></b> &nbsp; | &nbsp; <b><a href="../21.%20Introduction%20to%20Cache%20Memory/README.md">NEXT TOPIC ⏩</a></b>
 </p>
 
 ---
@@ -27,7 +25,5 @@
 ---
 
 <p align="center">
-  <a href="../19.%20Case%20study%20on%20GPU%20architectures/README.md"><img src="https://img.shields.io/badge/-PREVIOUS-black?style=for-the-badge&logo=arrow-left&logoColor=white" /></a>
-  <a href="../README.md"><img src="https://img.shields.io/badge/-MAIN%20MENU-black?style=for-the-badge" /></a>
-  <a href="../21.%20Introduction%20to%20Cache%20Memory/README.md"><img src="https://img.shields.io/badge/-NEXT-black?style=for-the-badge&logo=arrow-right&logoColor=white" /></a>
+  <b><a href="../19.%20Case%20study%20on%20GPU%20architectures/README.md">⏪ PREVIOUS TOPIC</a></b> &nbsp; | &nbsp; <b><a href="../README.md">📚 MAIN MENU</a></b> &nbsp; | &nbsp; <b><a href="../21.%20Introduction%20to%20Cache%20Memory/README.md">NEXT TOPIC ⏩</a></b>
 </p>
