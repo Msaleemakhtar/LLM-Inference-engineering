@@ -1,5 +1,9 @@
 # 06.RISC -Instruction-Pipeline
 
+[⬅️ Previous Topic](../05.Performance-evaluation-method-2/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../07.Instruction-pipline-hazards-1/README.md)
+
+---
+
 ![Screenshot From 2026-04-13 02-44-46.png](./Screenshot%20From%202026-04-13%2002-44-46.png)
 ![Screenshot From 2026-04-13 03-19-40.png](./Screenshot%20From%202026-04-13%2003-19-40.png)
 ![Screenshot From 2026-04-13 03-21-37.png](./Screenshot%20From%202026-04-13%2003-21-37.png)
@@ -26,3 +30,6 @@
 ![Screenshot From 2026-04-13 05-08-42.png](./Screenshot%20From%202026-04-13%2005-08-42.png)
 ![Screenshot From 2026-04-13 05-10-27.png](./Screenshot%20From%202026-04-13%2005-10-27.png)
 ![Screenshot From 2026-04-13 05-11-35.png](./Screenshot%20From%202026-04-13%2005-11-35.png)
+
+---
+[⬅️ Previous Topic](../05.Performance-evaluation-method-2/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../07.Instruction-pipline-hazards-1/README.md)

@@ -1,5 +1,9 @@
 # 21. Introduction to Cache Memory
 
+[⬅️ Previous Topic](../20.%20Superscalar%20processors%20and%20GPU/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../22%3A%20Block%20Replacement%20Techniques%20%26%20Write%20Strategy/README.md)
+
+---
+
 ![Screenshot From 2026-04-29 10-22-55.png](./Screenshot%20From%202026-04-29%2010-22-55.png)
 ![Screenshot From 2026-04-29 10-23-03.png](./Screenshot%20From%202026-04-29%2010-23-03.png)
 ![Screenshot From 2026-04-29 10-24-56.png](./Screenshot%20From%202026-04-29%2010-24-56.png)
@@ -40,3 +44,6 @@
 ![Screenshot From 2026-04-30 02-54-04.png](./Screenshot%20From%202026-04-30%2002-54-04.png)
 ![cash memory.png](./cash%20memory.png)
 ![index & offset calculaion.png](./index%20%26%20offset%20calculaion.png)
+
+---
+[⬅️ Previous Topic](../20.%20Superscalar%20processors%20and%20GPU/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../22%3A%20Block%20Replacement%20Techniques%20%26%20Write%20Strategy/README.md)

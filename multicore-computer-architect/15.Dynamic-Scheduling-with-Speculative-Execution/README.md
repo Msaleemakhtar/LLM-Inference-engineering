@@ -1,5 +1,9 @@
 # 15.Dynamic-Scheduling-with-Speculative-Execution
 
+[⬅️ Previous Topic](../14.Dynamic-Scheduling-with-Tomasulo%E2%80%99s%20Algorithm/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../16.Static-and-Dynamic-Scheduling/README.md)
+
+---
+
 ![Screenshot From 2026-04-24 11-29-22.png](./Screenshot%20From%202026-04-24%2011-29-22.png)
 ![Screenshot From 2026-04-24 11-30-26.png](./Screenshot%20From%202026-04-24%2011-30-26.png)
 ![Screenshot From 2026-04-24 11-33-33.png](./Screenshot%20From%202026-04-24%2011-33-33.png)
@@ -21,3 +25,6 @@
 ![Screenshot From 2026-04-24 15-24-24.png](./Screenshot%20From%202026-04-24%2015-24-24.png)
 ![Screenshot From 2026-04-24 15-25-57.png](./Screenshot%20From%202026-04-24%2015-25-57.png)
 ![Screenshot From 2026-04-24 15-26-38.png](./Screenshot%20From%202026-04-24%2015-26-38.png)
+
+---
+[⬅️ Previous Topic](../14.Dynamic-Scheduling-with-Tomasulo%E2%80%99s%20Algorithm/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../16.Static-and-Dynamic-Scheduling/README.md)

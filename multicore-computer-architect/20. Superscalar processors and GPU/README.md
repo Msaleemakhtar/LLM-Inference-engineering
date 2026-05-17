@@ -1,5 +1,9 @@
 # 20. Superscalar processors and GPU
 
+[⬅️ Previous Topic](../19.%20Case%20study%20on%20GPU%20architectures/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../21.%20Introduction%20to%20Cache%20Memory/README.md)
+
+---
+
 ![Screenshot From 2026-04-29 05-16-04.png](./Screenshot%20From%202026-04-29%2005-16-04.png)
 ![Screenshot From 2026-04-29 05-17-11.png](./Screenshot%20From%202026-04-29%2005-17-11.png)
 ![Screenshot From 2026-04-29 05-20-00.png](./Screenshot%20From%202026-04-29%2005-20-00.png)
@@ -15,3 +19,6 @@
 ![Screenshot From 2026-04-29 05-35-18.png](./Screenshot%20From%202026-04-29%2005-35-18.png)
 ![Screenshot From 2026-04-29 05-37-38.png](./Screenshot%20From%202026-04-29%2005-37-38.png)
 ![Screenshot From 2026-04-29 05-38-01.png](./Screenshot%20From%202026-04-29%2005-38-01.png)
+
+---
+[⬅️ Previous Topic](../19.%20Case%20study%20on%20GPU%20architectures/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../21.%20Introduction%20to%20Cache%20Memory/README.md)

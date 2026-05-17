@@ -1,5 +1,9 @@
 # 28: Cache coherence and memory consistency
 
+[⬅️ Previous Topic](../27%3A%20Advanced%20Concepts%20in%20Cache%20Memory%20-2/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../29%3A%20Design%20Space%20for%20snooping%20protocols/README.md)
+
+---
+
 ![Screenshot From 2026-05-10 01-25-50.png](./Screenshot%20From%202026-05-10%2001-25-50.png)
 ![Screenshot From 2026-05-10 01-29-02.png](./Screenshot%20From%202026-05-10%2001-29-02.png)
 ![Screenshot From 2026-05-10 01-36-44.png](./Screenshot%20From%202026-05-10%2001-36-44.png)
@@ -17,3 +21,6 @@
 ![Screenshot From 2026-05-10 03-10-37.png](./Screenshot%20From%202026-05-10%2003-10-37.png)
 ![Screenshot From 2026-05-10 03-11-27.png](./Screenshot%20From%202026-05-10%2003-11-27.png)
 ![Screenshot From 2026-05-10 03-14-36.png](./Screenshot%20From%202026-05-10%2003-14-36.png)
+
+---
+[⬅️ Previous Topic](../27%3A%20Advanced%20Concepts%20in%20Cache%20Memory%20-2/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../29%3A%20Design%20Space%20for%20snooping%20protocols/README.md)

@@ -1,5 +1,9 @@
 # 30: Directory Based Cache coherehce
 
+[⬅️ Previous Topic](../29%3A%20Design%20Space%20for%20snooping%20protocols/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../31%3A%20Cache%20coherence%20in%20multiprocessor%20design%20%5BT%5D/README.md)
+
+---
+
 ![Screenshot From 2026-05-12 01-39-53.png](./Screenshot%20From%202026-05-12%2001-39-53.png)
 ![Screenshot From 2026-05-12 01-41-12.png](./Screenshot%20From%202026-05-12%2001-41-12.png)
 ![Screenshot From 2026-05-12 01-41-35.png](./Screenshot%20From%202026-05-12%2001-41-35.png)
@@ -26,3 +30,6 @@
 ![Screenshot From 2026-05-12 02-24-52.png](./Screenshot%20From%202026-05-12%2002-24-52.png)
 ![Screenshot From 2026-05-12 02-27-11.png](./Screenshot%20From%202026-05-12%2002-27-11.png)
 ![Screenshot From 2026-05-12 02-31-03.png](./Screenshot%20From%202026-05-12%2002-31-03.png)
+
+---
+[⬅️ Previous Topic](../29%3A%20Design%20Space%20for%20snooping%20protocols/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../31%3A%20Cache%20coherence%20in%20multiprocessor%20design%20%5BT%5D/README.md)

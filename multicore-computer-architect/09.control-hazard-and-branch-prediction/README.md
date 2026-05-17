@@ -1,5 +1,9 @@
 # 09.control-hazard-and-branch-prediction
 
+[⬅️ Previous Topic](../08.Instruction-pipline-hazards-2/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../10.MIPS-Pipeline-for-Multi-Cycle-Operations/README.md)
+
+---
+
 ![Screenshot From 2026-04-14 14-42-33.png](./Screenshot%20From%202026-04-14%2014-42-33.png)
 ![Screenshot From 2026-04-14 14-46-36.png](./Screenshot%20From%202026-04-14%2014-46-36.png)
 ![Screenshot From 2026-04-14 14-47-09.png](./Screenshot%20From%202026-04-14%2014-47-09.png)
@@ -24,3 +28,6 @@
 ![Screenshot From 2026-04-15 02-24-02.png](./Screenshot%20From%202026-04-15%2002-24-02.png)
 ![Screenshot From 2026-04-15 02-24-12.png](./Screenshot%20From%202026-04-15%2002-24-12.png)
 ![Screenshot From 2026-04-15 02-26-09.png](./Screenshot%20From%202026-04-15%2002-26-09.png)
+
+---
+[⬅️ Previous Topic](../08.Instruction-pipline-hazards-2/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../10.MIPS-Pipeline-for-Multi-Cycle-Operations/README.md)

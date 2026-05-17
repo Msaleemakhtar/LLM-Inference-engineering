@@ -1,5 +1,9 @@
 # 11.longer-Pipeline-and-branch-prediction
 
+[⬅️ Previous Topic](../10.MIPS-Pipeline-for-Multi-Cycle-Operations/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../12.%20Compiler-Techniques-to-Explore-ILP/README.md)
+
+---
+
 ![Screenshot From 2026-04-15 17-54-39.png](./Screenshot%20From%202026-04-15%2017-54-39.png)
 ![Screenshot From 2026-04-15 17-56-02.png](./Screenshot%20From%202026-04-15%2017-56-02.png)
 ![Screenshot From 2026-04-16 09-23-17.png](./Screenshot%20From%202026-04-16%2009-23-17.png)
@@ -16,3 +20,6 @@
 ![Screenshot From 2026-04-16 10-01-17.png](./Screenshot%20From%202026-04-16%2010-01-17.png)
 ![Screenshot From 2026-04-16 10-02-17.png](./Screenshot%20From%202026-04-16%2010-02-17.png)
 ![Screenshot From 2026-04-16 10-03-56.png](./Screenshot%20From%202026-04-16%2010-03-56.png)
+
+---
+[⬅️ Previous Topic](../10.MIPS-Pipeline-for-Multi-Cycle-Operations/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../12.%20Compiler-Techniques-to-Explore-ILP/README.md)

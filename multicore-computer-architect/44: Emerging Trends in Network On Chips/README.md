@@ -1,5 +1,9 @@
 # 44: Emerging Trends in Network On Chips
 
+[⬅️ Previous Topic](../43%3A%20QoS%20of%20NoC%20and%20Caches%20in%20TCMP%20Systems/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../45%3A%20Domain%20Specific%20Accelarators/README.md)
+
+---
+
 ![Screenshot From 2026-05-18 00-23-52.png](./Screenshot%20From%202026-05-18%2000-23-52.png)
 ![Screenshot From 2026-05-18 00-24-52.png](./Screenshot%20From%202026-05-18%2000-24-52.png)
 ![Screenshot From 2026-05-18 00-48-41.png](./Screenshot%20From%202026-05-18%2000-48-41.png)
@@ -50,3 +54,6 @@
 ![Screenshot From 2026-05-18 02-12-30.png](./Screenshot%20From%202026-05-18%2002-12-30.png)
 ![Screenshot From 2026-05-18 02-12-32.png](./Screenshot%20From%202026-05-18%2002-12-32.png)
 ![Screenshot From 2026-05-18 02-13-34.png](./Screenshot%20From%202026-05-18%2002-13-34.png)
+
+---
+[⬅️ Previous Topic](../43%3A%20QoS%20of%20NoC%20and%20Caches%20in%20TCMP%20Systems/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../45%3A%20Domain%20Specific%20Accelarators/README.md)

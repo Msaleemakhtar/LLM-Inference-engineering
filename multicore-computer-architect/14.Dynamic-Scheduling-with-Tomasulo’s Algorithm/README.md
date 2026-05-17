@@ -1,5 +1,9 @@
 # 14.Dynamic-Scheduling-with-Tomasulo’s Algorithm
 
+[⬅️ Previous Topic](../13.Dynamic-Scheduling-to-Explore-ILP/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../15.Dynamic-Scheduling-with-Speculative-Execution/README.md)
+
+---
+
 ![Screenshot From 2026-04-23 14-48-00.png](./Screenshot%20From%202026-04-23%2014-48-00.png)
 ![Screenshot From 2026-04-23 14-49-39.png](./Screenshot%20From%202026-04-23%2014-49-39.png)
 ![Screenshot From 2026-04-23 14-50-49.png](./Screenshot%20From%202026-04-23%2014-50-49.png)
@@ -19,3 +23,6 @@
 ![Screenshot From 2026-04-23 17-32-15.png](./Screenshot%20From%202026-04-23%2017-32-15.png)
 ![Screenshot From 2026-04-23 17-41-20.png](./Screenshot%20From%202026-04-23%2017-41-20.png)
 ![Screenshot From 2026-04-23 17-47-00.png](./Screenshot%20From%202026-04-23%2017-47-00.png)
+
+---
+[⬅️ Previous Topic](../13.Dynamic-Scheduling-to-Explore-ILP/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../15.Dynamic-Scheduling-with-Speculative-Execution/README.md)

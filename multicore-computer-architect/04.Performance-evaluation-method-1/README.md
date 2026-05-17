@@ -1,5 +1,9 @@
 # 04.Performance-evaluation-method-1
 
+[⬅️ Previous Topic](../03.Instruction-encoding/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../05.Performance-evaluation-method-2/README.md)
+
+---
+
 ![Screenshot From 2026-04-11 09-33-18.png](./Screenshot%20From%202026-04-11%2009-33-18.png)
 ![Screenshot From 2026-04-12 01-24-14.png](./Screenshot%20From%202026-04-12%2001-24-14.png)
 ![Screenshot From 2026-04-12 01-24-39.png](./Screenshot%20From%202026-04-12%2001-24-39.png)
@@ -24,3 +28,6 @@
 ![Screenshot From 2026-04-12 08-50-55.png](./Screenshot%20From%202026-04-12%2008-50-55.png)
 ![Screenshot From 2026-04-12 08-52-45.png](./Screenshot%20From%202026-04-12%2008-52-45.png)
 ![Screenshot From 2026-04-12 08-53-27.png](./Screenshot%20From%202026-04-12%2008-53-27.png)
+
+---
+[⬅️ Previous Topic](../03.Instruction-encoding/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../05.Performance-evaluation-method-2/README.md)

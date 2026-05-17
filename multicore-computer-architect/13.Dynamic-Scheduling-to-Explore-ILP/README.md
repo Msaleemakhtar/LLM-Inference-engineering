@@ -1,5 +1,9 @@
 # 13.Dynamic-Scheduling-to-Explore-ILP
 
+[⬅️ Previous Topic](../12.%20Compiler-Techniques-to-Explore-ILP/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../14.Dynamic-Scheduling-with-Tomasulo%E2%80%99s%20Algorithm/README.md)
+
+---
+
 ![Screenshot From 2026-04-17 06-20-39.png](./Screenshot%20From%202026-04-17%2006-20-39.png)
 ![Screenshot From 2026-04-17 06-24-32.png](./Screenshot%20From%202026-04-17%2006-24-32.png)
 ![Screenshot From 2026-04-17 06-27-17.png](./Screenshot%20From%202026-04-17%2006-27-17.png)
@@ -18,3 +22,6 @@
 ![Screenshot From 2026-04-17 06-54-03.png](./Screenshot%20From%202026-04-17%2006-54-03.png)
 ![Screenshot From 2026-04-17 06-55-43.png](./Screenshot%20From%202026-04-17%2006-55-43.png)
 ![Screenshot From 2026-04-17 06-56-44.png](./Screenshot%20From%202026-04-17%2006-56-44.png)
+
+---
+[⬅️ Previous Topic](../12.%20Compiler-Techniques-to-Explore-ILP/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../14.Dynamic-Scheduling-with-Tomasulo%E2%80%99s%20Algorithm/README.md)

@@ -1,5 +1,9 @@
 # 08.Instruction-pipline-hazards-2
 
+[⬅️ Previous Topic](../07.Instruction-pipline-hazards-1/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../09.control-hazard-and-branch-prediction/README.md)
+
+---
+
 ![Screenshot From 2026-04-14 10-34-33.png](./Screenshot%20From%202026-04-14%2010-34-33.png)
 ![Screenshot From 2026-04-14 10-39-49.png](./Screenshot%20From%202026-04-14%2010-39-49.png)
 ![Screenshot From 2026-04-14 10-41-33.png](./Screenshot%20From%202026-04-14%2010-41-33.png)
@@ -32,3 +36,6 @@
 ![Screenshot From 2026-04-14 13-01-30.png](./Screenshot%20From%202026-04-14%2013-01-30.png)
 ![Screenshot From 2026-04-14 13-02-26.png](./Screenshot%20From%202026-04-14%2013-02-26.png)
 ![Screenshot From 2026-04-14 13-03-03.png](./Screenshot%20From%202026-04-14%2013-03-03.png)
+
+---
+[⬅️ Previous Topic](../07.Instruction-pipline-hazards-1/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../09.control-hazard-and-branch-prediction/README.md)

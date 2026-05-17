@@ -1,5 +1,9 @@
 # 27: Advanced Concepts in Cache Memory -2
 
+[⬅️ Previous Topic](../26%3A%20Advanced%20Concepts%20in%20Cache%20Memory-1/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../28%3A%20Cache%20coherence%20and%20memory%20consistency/README.md)
+
+---
+
 ![Screenshot From 2026-05-09 03-23-47.png](./Screenshot%20From%202026-05-09%2003-23-47.png)
 ![Screenshot From 2026-05-09 03-33-36.png](./Screenshot%20From%202026-05-09%2003-33-36.png)
 ![Screenshot From 2026-05-09 14-45-12.png](./Screenshot%20From%202026-05-09%2014-45-12.png)
@@ -13,3 +17,6 @@
 ![Screenshot From 2026-05-09 17-48-08.png](./Screenshot%20From%202026-05-09%2017-48-08.png)
 ![Screenshot From 2026-05-09 17-53-34.png](./Screenshot%20From%202026-05-09%2017-53-34.png)
 ![Screenshot From 2026-05-09 17-54-37.png](./Screenshot%20From%202026-05-09%2017-54-37.png)
+
+---
+[⬅️ Previous Topic](../26%3A%20Advanced%20Concepts%20in%20Cache%20Memory-1/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../28%3A%20Cache%20coherence%20and%20memory%20consistency/README.md)

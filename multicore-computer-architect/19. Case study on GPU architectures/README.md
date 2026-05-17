@@ -1,5 +1,9 @@
 # 19. Case study on GPU architectures
 
+[⬅️ Previous Topic](../18.Introduction%20to%20GPU%20architectures/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../20.%20Superscalar%20processors%20and%20GPU/README.md)
+
+---
+
 ![Screenshot From 2026-04-27 15-46-59.png](./Screenshot%20From%202026-04-27%2015-46-59.png)
 ![Screenshot From 2026-04-27 15-56-02.png](./Screenshot%20From%202026-04-27%2015-56-02.png)
 ![Screenshot From 2026-04-27 15-57-32.png](./Screenshot%20From%202026-04-27%2015-57-32.png)
@@ -52,3 +56,6 @@
 ![Screenshot From 2026-04-28 04-34-31.png](./Screenshot%20From%202026-04-28%2004-34-31.png)
 ![bsp.png](./bsp.png)
 ![memory-coalescing.png](./memory-coalescing.png)
+
+---
+[⬅️ Previous Topic](../18.Introduction%20to%20GPU%20architectures/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../20.%20Superscalar%20processors%20and%20GPU/README.md)

@@ -1,5 +1,9 @@
 # 43: QoS of NoC and Caches in TCMP Systems
 
+[⬅️ Previous Topic](../42%3A%20Concepts%20in%20Deflection%20Routers%20%5BT%5D/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../44%3A%20Emerging%20Trends%20in%20Network%20On%20Chips/README.md)
+
+---
+
 ![Screenshot From 2026-05-17 04-56-09.png](./Screenshot%20From%202026-05-17%2004-56-09.png)
 ![Screenshot From 2026-05-17 04-58-10.png](./Screenshot%20From%202026-05-17%2004-58-10.png)
 ![Screenshot From 2026-05-17 05-00-17.png](./Screenshot%20From%202026-05-17%2005-00-17.png)
@@ -71,3 +75,6 @@
 ![Screenshot From 2026-05-17 18-51-27.png](./Screenshot%20From%202026-05-17%2018-51-27.png)
 ![Screenshot From 2026-05-17 18-51-56.png](./Screenshot%20From%202026-05-17%2018-51-56.png)
 ![Screenshot From 2026-05-17 18-52-05.png](./Screenshot%20From%202026-05-17%2018-52-05.png)
+
+---
+[⬅️ Previous Topic](../42%3A%20Concepts%20in%20Deflection%20Routers%20%5BT%5D/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../44%3A%20Emerging%20Trends%20in%20Network%20On%20Chips/README.md)

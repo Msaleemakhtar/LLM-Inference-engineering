@@ -1,5 +1,9 @@
 # 40: Energy Efficient Bufferless NoC Routers
 
+[⬅️ Previous Topic](../39%3A%20Concepts%20in%20Network%20on%20Chip/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../41%3A%20Sidebuffered%20Deflection%20Routers/README.md)
+
+---
+
 ![Screenshot From 2026-05-15 00-12-26.png](./Screenshot%20From%202026-05-15%2000-12-26.png)
 ![Screenshot From 2026-05-15 00-15-49.png](./Screenshot%20From%202026-05-15%2000-15-49.png)
 ![Screenshot From 2026-05-15 00-15-59.png](./Screenshot%20From%202026-05-15%2000-15-59.png)
@@ -67,3 +71,6 @@
 ![Screenshot From 2026-05-15 02-28-17.png](./Screenshot%20From%202026-05-15%2002-28-17.png)
 ![Screenshot From 2026-05-15 02-29-04.png](./Screenshot%20From%202026-05-15%2002-29-04.png)
 ![Screenshot From 2026-05-15 02-34-22.png](./Screenshot%20From%202026-05-15%2002-34-22.png)
+
+---
+[⬅️ Previous Topic](../39%3A%20Concepts%20in%20Network%20on%20Chip/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../41%3A%20Sidebuffered%20Deflection%20Routers/README.md)

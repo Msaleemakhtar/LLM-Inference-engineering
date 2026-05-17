@@ -1,5 +1,9 @@
 # 22: Block Replacement Techniques & Write Strategy
 
+[⬅️ Previous Topic](../21.%20Introduction%20to%20Cache%20Memory/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../23%3A%20Design%20Concepts%20in%20Cache%20Memory/README.md)
+
+---
+
 ![Screenshot From 2026-04-30 03-12-24.png](./Screenshot%20From%202026-04-30%2003-12-24.png)
 ![Screenshot From 2026-04-30 03-34-12.png](./Screenshot%20From%202026-04-30%2003-34-12.png)
 ![Screenshot From 2026-04-30 03-40-34.png](./Screenshot%20From%202026-04-30%2003-40-34.png)
@@ -22,3 +26,6 @@
 ![Screenshot From 2026-04-30 17-26-19.png](./Screenshot%20From%202026-04-30%2017-26-19.png)
 ![Screenshot From 2026-04-30 17-29-47.png](./Screenshot%20From%202026-04-30%2017-29-47.png)
 ![Screenshot From 2026-04-30 17-35-57.png](./Screenshot%20From%202026-04-30%2017-35-57.png)
+
+---
+[⬅️ Previous Topic](../21.%20Introduction%20to%20Cache%20Memory/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../23%3A%20Design%20Concepts%20in%20Cache%20Memory/README.md)

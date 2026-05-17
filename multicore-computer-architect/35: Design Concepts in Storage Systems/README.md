@@ -1,5 +1,9 @@
 # 35: Design Concepts in Storage Systems
 
+[⬅️ Previous Topic](../34%3A%20Secondary%20Storage%20Systems/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../36%3A%20Introduction%20to%20Tiled%20Chip%20Multicore%20Processors/README.md)
+
+---
+
 ![Screenshot From 2026-05-13 09-38-27.png](./Screenshot%20From%202026-05-13%2009-38-27.png)
 ![Screenshot From 2026-05-13 09-42-07.png](./Screenshot%20From%202026-05-13%2009-42-07.png)
 ![Screenshot From 2026-05-13 09-43-32.png](./Screenshot%20From%202026-05-13%2009-43-32.png)
@@ -11,3 +15,6 @@
 ![Screenshot From 2026-05-13 09-55-16.png](./Screenshot%20From%202026-05-13%2009-55-16.png)
 ![Screenshot From 2026-05-13 09-55-24.png](./Screenshot%20From%202026-05-13%2009-55-24.png)
 ![Screenshot From 2026-05-13 10-03-35.png](./Screenshot%20From%202026-05-13%2010-03-35.png)
+
+---
+[⬅️ Previous Topic](../34%3A%20Secondary%20Storage%20Systems/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../36%3A%20Introduction%20to%20Tiled%20Chip%20Multicore%20Processors/README.md)

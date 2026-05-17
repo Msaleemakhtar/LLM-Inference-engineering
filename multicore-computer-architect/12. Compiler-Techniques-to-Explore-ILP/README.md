@@ -1,5 +1,9 @@
 # 12. Compiler-Techniques-to-Explore-ILP
 
+[⬅️ Previous Topic](../11.longer-Pipeline-and-branch-prediction/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../13.Dynamic-Scheduling-to-Explore-ILP/README.md)
+
+---
+
 ![Screenshot From 2026-04-16 12-08-03.png](./Screenshot%20From%202026-04-16%2012-08-03.png)
 ![Screenshot From 2026-04-16 14-07-50.png](./Screenshot%20From%202026-04-16%2014-07-50.png)
 ![Screenshot From 2026-04-16 15-38-06.png](./Screenshot%20From%202026-04-16%2015-38-06.png)
@@ -20,3 +24,6 @@
 ![Screenshot From 2026-04-17 02-59-27.png](./Screenshot%20From%202026-04-17%2002-59-27.png)
 ![Screenshot From 2026-04-17 03-40-57.png](./Screenshot%20From%202026-04-17%2003-40-57.png)
 ![Screenshot From 2026-04-17 03-42-49.png](./Screenshot%20From%202026-04-17%2003-42-49.png)
+
+---
+[⬅️ Previous Topic](../11.longer-Pipeline-and-branch-prediction/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../13.Dynamic-Scheduling-to-Explore-ILP/README.md)

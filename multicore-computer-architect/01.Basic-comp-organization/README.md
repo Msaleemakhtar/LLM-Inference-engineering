@@ -1,5 +1,9 @@
 # 01.Basic-comp-organization
 
+[🏠 Main Menu](../README.md) | [Next Topic ➡️](../02.Instruction-set-%26-addressing-mode/README.md)
+
+---
+
 ![Screenshot From 2026-04-09 08-00-17.png](./Screenshot%20From%202026-04-09%2008-00-17.png)
 ![Screenshot From 2026-04-09 08-01-46.png](./Screenshot%20From%202026-04-09%2008-01-46.png)
 ![Screenshot From 2026-04-09 08-05-28.png](./Screenshot%20From%202026-04-09%2008-05-28.png)
@@ -22,3 +26,6 @@
 ![Screenshot From 2026-04-09 17-24-28.png](./Screenshot%20From%202026-04-09%2017-24-28.png)
 ![Screenshot From 2026-04-09 17-33-03.png](./Screenshot%20From%202026-04-09%2017-33-03.png)
 ![Screenshot From 2026-04-09 17-33-55.png](./Screenshot%20From%202026-04-09%2017-33-55.png)
+
+---
+[🏠 Main Menu](../README.md) | [Next Topic ➡️](../02.Instruction-set-%26-addressing-mode/README.md)

@@ -1,5 +1,9 @@
 # 41: Sidebuffered Deflection Routers
 
+[⬅️ Previous Topic](../40%3A%20Energy%20Efficient%20Bufferless%20NoC%20Routers/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../42%3A%20Concepts%20in%20Deflection%20Routers%20%5BT%5D/README.md)
+
+---
+
 ![Screenshot From 2026-05-17 01-04-15.png](./Screenshot%20From%202026-05-17%2001-04-15.png)
 ![Screenshot From 2026-05-17 01-04-26.png](./Screenshot%20From%202026-05-17%2001-04-26.png)
 ![Screenshot From 2026-05-17 01-04-43.png](./Screenshot%20From%202026-05-17%2001-04-43.png)
@@ -105,3 +109,6 @@
 ![Screenshot From 2026-05-17 02-48-30.png](./Screenshot%20From%202026-05-17%2002-48-30.png)
 ![Screenshot From 2026-05-17 02-51-16.png](./Screenshot%20From%202026-05-17%2002-51-16.png)
 ![Screenshot From 2026-05-17 02-51-30.png](./Screenshot%20From%202026-05-17%2002-51-30.png)
+
+---
+[⬅️ Previous Topic](../40%3A%20Energy%20Efficient%20Bufferless%20NoC%20Routers/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../42%3A%20Concepts%20in%20Deflection%20Routers%20%5BT%5D/README.md)

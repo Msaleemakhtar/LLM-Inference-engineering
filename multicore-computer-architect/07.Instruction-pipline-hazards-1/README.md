@@ -1,5 +1,9 @@
 # 07.Instruction-pipline-hazards-1
 
+[⬅️ Previous Topic](../06.RISC%20-Instruction-Pipeline/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../08.Instruction-pipline-hazards-2/README.md)
+
+---
+
 ![Screenshot From 2026-04-13 08-50-12.png](./Screenshot%20From%202026-04-13%2008-50-12.png)
 ![Screenshot From 2026-04-13 08-51-20.png](./Screenshot%20From%202026-04-13%2008-51-20.png)
 ![Screenshot From 2026-04-13 08-51-22.png](./Screenshot%20From%202026-04-13%2008-51-22.png)
@@ -27,3 +31,6 @@
 ![Screenshot From 2026-04-14 08-55-09.png](./Screenshot%20From%202026-04-14%2008-55-09.png)
 ![Screenshot From 2026-04-14 08-55-47.png](./Screenshot%20From%202026-04-14%2008-55-47.png)
 ![Screenshot From 2026-04-14 08-57-12.png](./Screenshot%20From%202026-04-14%2008-57-12.png)
+
+---
+[⬅️ Previous Topic](../06.RISC%20-Instruction-Pipeline/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../08.Instruction-pipline-hazards-2/README.md)

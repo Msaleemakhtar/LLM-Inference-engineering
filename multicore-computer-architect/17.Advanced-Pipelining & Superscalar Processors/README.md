@@ -1,5 +1,9 @@
 # 17.Advanced-Pipelining & Superscalar Processors
 
+[⬅️ Previous Topic](../16.Static-and-Dynamic-Scheduling/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../18.Introduction%20to%20GPU%20architectures/README.md)
+
+---
+
 ![Screenshot From 2026-04-25 13-01-42.png](./Screenshot%20From%202026-04-25%2013-01-42.png)
 ![Screenshot From 2026-04-25 13-03-11.png](./Screenshot%20From%202026-04-25%2013-03-11.png)
 ![Screenshot From 2026-04-25 13-25-12.png](./Screenshot%20From%202026-04-25%2013-25-12.png)
@@ -35,3 +39,6 @@
 ![Screenshot From 2026-04-25 18-12-17.png](./Screenshot%20From%202026-04-25%2018-12-17.png)
 ![Screenshot From 2026-04-25 18-12-22.png](./Screenshot%20From%202026-04-25%2018-12-22.png)
 ![Screenshot From 2026-04-25 18-13-59.png](./Screenshot%20From%202026-04-25%2018-13-59.png)
+
+---
+[⬅️ Previous Topic](../16.Static-and-Dynamic-Scheduling/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../18.Introduction%20to%20GPU%20architectures/README.md)

@@ -1,5 +1,9 @@
 # 38: Network On Chip Router Micro-Architecture
 
+[⬅️ Previous Topic](../37%3A%20Routing%20Techniques%20in%20Network%20On%20Chip/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../39%3A%20Concepts%20in%20Network%20on%20Chip/README.md)
+
+---
+
 ![Screenshot From 2026-05-14 04-29-12.png](./Screenshot%20From%202026-05-14%2004-29-12.png)
 ![Screenshot From 2026-05-14 04-51-18.png](./Screenshot%20From%202026-05-14%2004-51-18.png)
 ![Screenshot From 2026-05-14 04-53-14.png](./Screenshot%20From%202026-05-14%2004-53-14.png)
@@ -55,3 +59,6 @@
 ![Screenshot From 2026-05-14 22-40-42.png](./Screenshot%20From%202026-05-14%2022-40-42.png)
 ![Screenshot From 2026-05-14 22-42-25.png](./Screenshot%20From%202026-05-14%2022-42-25.png)
 ![Screenshot From 2026-05-14 22-42-35.png](./Screenshot%20From%202026-05-14%2022-42-35.png)
+
+---
+[⬅️ Previous Topic](../37%3A%20Routing%20Techniques%20in%20Network%20On%20Chip/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../39%3A%20Concepts%20in%20Network%20on%20Chip/README.md)

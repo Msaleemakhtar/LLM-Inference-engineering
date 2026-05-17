@@ -1,5 +1,9 @@
 # 32: Introduction to DRAM System
 
+[⬅️ Previous Topic](../31%3A%20Cache%20coherence%20in%20multiprocessor%20design%20%5BT%5D/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../33%3A%20DRAM%20Controllers%20%26%20Address%20Mapping/README.md)
+
+---
+
 ![Screenshot From 2026-05-12 16-00-05.png](./Screenshot%20From%202026-05-12%2016-00-05.png)
 ![Screenshot From 2026-05-12 16-02-36.png](./Screenshot%20From%202026-05-12%2016-02-36.png)
 ![Screenshot From 2026-05-12 16-08-08.png](./Screenshot%20From%202026-05-12%2016-08-08.png)
@@ -35,3 +39,6 @@
 ![Screenshot From 2026-05-12 17-31-47.png](./Screenshot%20From%202026-05-12%2017-31-47.png)
 ![Screenshot From 2026-05-12 17-32-47.png](./Screenshot%20From%202026-05-12%2017-32-47.png)
 ![Screenshot From 2026-05-12 17-32-54.png](./Screenshot%20From%202026-05-12%2017-32-54.png)
+
+---
+[⬅️ Previous Topic](../31%3A%20Cache%20coherence%20in%20multiprocessor%20design%20%5BT%5D/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../33%3A%20DRAM%20Controllers%20%26%20Address%20Mapping/README.md)

@@ -1,5 +1,9 @@
 # 39: Concepts in Network on Chip
 
+[⬅️ Previous Topic](../38%3A%20Network%20On%20Chip%20Router%20Micro-Architecture/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../40%3A%20Energy%20Efficient%20Bufferless%20NoC%20Routers/README.md)
+
+---
+
 ![Screenshot From 2026-05-14 22-46-37.png](./Screenshot%20From%202026-05-14%2022-46-37.png)
 ![Screenshot From 2026-05-14 22-53-59.png](./Screenshot%20From%202026-05-14%2022-53-59.png)
 ![Screenshot From 2026-05-14 22-54-57.png](./Screenshot%20From%202026-05-14%2022-54-57.png)
@@ -17,3 +21,6 @@
 ![Screenshot From 2026-05-14 23-19-02.png](./Screenshot%20From%202026-05-14%2023-19-02.png)
 ![Screenshot From 2026-05-14 23-19-53.png](./Screenshot%20From%202026-05-14%2023-19-53.png)
 ![Screenshot From 2026-05-14 23-40-14.png](./Screenshot%20From%202026-05-14%2023-40-14.png)
+
+---
+[⬅️ Previous Topic](../38%3A%20Network%20On%20Chip%20Router%20Micro-Architecture/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../40%3A%20Energy%20Efficient%20Bufferless%20NoC%20Routers/README.md)

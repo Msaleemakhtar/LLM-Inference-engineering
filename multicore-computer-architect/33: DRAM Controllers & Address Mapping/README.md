@@ -1,5 +1,9 @@
 # 33: DRAM Controllers & Address Mapping
 
+[⬅️ Previous Topic](../32%3A%20Introduction%20to%20DRAM%20System/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../34%3A%20Secondary%20Storage%20Systems/README.md)
+
+---
+
 ![Screenshot From 2026-05-12 18-20-02.png](./Screenshot%20From%202026-05-12%2018-20-02.png)
 ![Screenshot From 2026-05-12 18-44-22.png](./Screenshot%20From%202026-05-12%2018-44-22.png)
 ![Screenshot From 2026-05-12 18-52-57.png](./Screenshot%20From%202026-05-12%2018-52-57.png)
@@ -25,3 +29,6 @@
 ![Screenshot From 2026-05-13 01-08-32.png](./Screenshot%20From%202026-05-13%2001-08-32.png)
 ![Screenshot From 2026-05-13 01-12-04.png](./Screenshot%20From%202026-05-13%2001-12-04.png)
 ![Screenshot From 2026-05-13 01-13-43.png](./Screenshot%20From%202026-05-13%2001-13-43.png)
+
+---
+[⬅️ Previous Topic](../32%3A%20Introduction%20to%20DRAM%20System/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../34%3A%20Secondary%20Storage%20Systems/README.md)

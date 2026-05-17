@@ -1,5 +1,9 @@
 # 02.Instruction-set-&-addressing-mode
 
+[⬅️ Previous Topic](../01.Basic-comp-organization/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../03.Instruction-encoding/README.md)
+
+---
+
 ![Screenshot From 2026-04-10 00-03-14.png](./Screenshot%20From%202026-04-10%2000-03-14.png)
 ![Screenshot From 2026-04-10 00-03-52.png](./Screenshot%20From%202026-04-10%2000-03-52.png)
 ![Screenshot From 2026-04-10 01-28-24.png](./Screenshot%20From%202026-04-10%2001-28-24.png)
@@ -31,3 +35,6 @@
 ![Screenshot From 2026-04-10 07-39-01.png](./Screenshot%20From%202026-04-10%2007-39-01.png)
 ![Screenshot From 2026-04-10 07-39-42.png](./Screenshot%20From%202026-04-10%2007-39-42.png)
 ![Screenshot From 2026-04-10 07-41-27.png](./Screenshot%20From%202026-04-10%2007-41-27.png)
+
+---
+[⬅️ Previous Topic](../01.Basic-comp-organization/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../03.Instruction-encoding/README.md)

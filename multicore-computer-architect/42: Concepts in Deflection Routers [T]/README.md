@@ -1,5 +1,9 @@
 # 42: Concepts in Deflection Routers [T]
 
+[⬅️ Previous Topic](../41%3A%20Sidebuffered%20Deflection%20Routers/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../43%3A%20QoS%20of%20NoC%20and%20Caches%20in%20TCMP%20Systems/README.md)
+
+---
+
 ![Screenshot From 2026-05-17 02-57-06.png](./Screenshot%20From%202026-05-17%2002-57-06.png)
 ![Screenshot From 2026-05-17 03-12-59.png](./Screenshot%20From%202026-05-17%2003-12-59.png)
 ![Screenshot From 2026-05-17 03-13-44.png](./Screenshot%20From%202026-05-17%2003-13-44.png)
@@ -15,3 +19,6 @@
 ![Screenshot From 2026-05-17 03-38-33.png](./Screenshot%20From%202026-05-17%2003-38-33.png)
 ![Screenshot From 2026-05-17 03-41-59.png](./Screenshot%20From%202026-05-17%2003-41-59.png)
 ![Screenshot From 2026-05-17 03-42-46.png](./Screenshot%20From%202026-05-17%2003-42-46.png)
+
+---
+[⬅️ Previous Topic](../41%3A%20Sidebuffered%20Deflection%20Routers/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../43%3A%20QoS%20of%20NoC%20and%20Caches%20in%20TCMP%20Systems/README.md)

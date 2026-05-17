@@ -1,5 +1,9 @@
 # 36: Introduction to Tiled Chip Multicore Processors
 
+[⬅️ Previous Topic](../35%3A%20Design%20Concepts%20in%20Storage%20Systems/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../37%3A%20Routing%20Techniques%20in%20Network%20On%20Chip/README.md)
+
+---
+
 ![Screenshot From 2026-05-13 17-04-08.png](./Screenshot%20From%202026-05-13%2017-04-08.png)
 ![Screenshot From 2026-05-13 17-06-20.png](./Screenshot%20From%202026-05-13%2017-06-20.png)
 ![Screenshot From 2026-05-13 17-08-46.png](./Screenshot%20From%202026-05-13%2017-08-46.png)
@@ -30,3 +34,6 @@
 ![Screenshot From 2026-05-13 18-13-02.png](./Screenshot%20From%202026-05-13%2018-13-02.png)
 ![Screenshot From 2026-05-13 18-16-53.png](./Screenshot%20From%202026-05-13%2018-16-53.png)
 ![Screenshot From 2026-05-13 18-18-19.png](./Screenshot%20From%202026-05-13%2018-18-19.png)
+
+---
+[⬅️ Previous Topic](../35%3A%20Design%20Concepts%20in%20Storage%20Systems/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../37%3A%20Routing%20Techniques%20in%20Network%20On%20Chip/README.md)

@@ -1,5 +1,9 @@
 # 25: Advanced Cache Optimization Techniques
 
+[⬅️ Previous Topic](../24%3A%20Optimization%20Techniques%20in%20Cache%20Memory/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../26%3A%20Advanced%20Concepts%20in%20Cache%20Memory-1/README.md)
+
+---
+
 ![Screenshot From 2026-05-03 00-46-51.png](./Screenshot%20From%202026-05-03%2000-46-51.png)
 ![Screenshot From 2026-05-03 00-46-52.png](./Screenshot%20From%202026-05-03%2000-46-52.png)
 ![Screenshot From 2026-05-03 01-51-29.png](./Screenshot%20From%202026-05-03%2001-51-29.png)
@@ -13,3 +17,6 @@
 ![Screenshot From 2026-05-05 18-42-19.png](./Screenshot%20From%202026-05-05%2018-42-19.png)
 ![Screenshot From 2026-05-05 18-43-26.png](./Screenshot%20From%202026-05-05%2018-43-26.png)
 ![Screenshot From 2026-05-05 18-45-55.png](./Screenshot%20From%202026-05-05%2018-45-55.png)
+
+---
+[⬅️ Previous Topic](../24%3A%20Optimization%20Techniques%20in%20Cache%20Memory/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../26%3A%20Advanced%20Concepts%20in%20Cache%20Memory-1/README.md)

@@ -1,5 +1,9 @@
 # 18.Introduction to GPU architectures
 
+[⬅️ Previous Topic](../17.Advanced-Pipelining%20%26%20Superscalar%20Processors/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../19.%20Case%20study%20on%20GPU%20architectures/README.md)
+
+---
+
 ![Screenshot From 2026-04-26 14-59-33.png](./Screenshot%20From%202026-04-26%2014-59-33.png)
 ![Screenshot From 2026-04-26 15-04-49.png](./Screenshot%20From%202026-04-26%2015-04-49.png)
 ![Screenshot From 2026-04-26 15-07-34.png](./Screenshot%20From%202026-04-26%2015-07-34.png)
@@ -42,3 +46,6 @@
 ![Screenshot From 2026-04-27 12-17-54.png](./Screenshot%20From%202026-04-27%2012-17-54.png)
 ![Screenshot From 2026-04-27 12-18-32.png](./Screenshot%20From%202026-04-27%2012-18-32.png)
 ![Screenshot From 2026-04-27 12-20-44.png](./Screenshot%20From%202026-04-27%2012-20-44.png)
+
+---
+[⬅️ Previous Topic](../17.Advanced-Pipelining%20%26%20Superscalar%20Processors/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../19.%20Case%20study%20on%20GPU%20architectures/README.md)

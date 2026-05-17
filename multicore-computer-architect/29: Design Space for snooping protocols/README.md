@@ -1,5 +1,9 @@
 # 29: Design Space for snooping protocols
 
+[⬅️ Previous Topic](../28%3A%20Cache%20coherence%20and%20memory%20consistency/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../30%3A%20Directory%20Based%20Cache%20coherehce/README.md)
+
+---
+
 ![Screenshot From 2026-05-11 03-53-54.png](./Screenshot%20From%202026-05-11%2003-53-54.png)
 ![Screenshot From 2026-05-11 03-55-36.png](./Screenshot%20From%202026-05-11%2003-55-36.png)
 ![Screenshot From 2026-05-11 03-58-27.png](./Screenshot%20From%202026-05-11%2003-58-27.png)
@@ -35,3 +39,6 @@
 ![Screenshot From 2026-05-12 00-48-31.png](./Screenshot%20From%202026-05-12%2000-48-31.png)
 ![Screenshot From 2026-05-12 00-50-19.png](./Screenshot%20From%202026-05-12%2000-50-19.png)
 ![Screenshot From 2026-05-12 00-52-04.png](./Screenshot%20From%202026-05-12%2000-52-04.png)
+
+---
+[⬅️ Previous Topic](../28%3A%20Cache%20coherence%20and%20memory%20consistency/README.md) | [🏠 Main Menu](../README.md) | [Next Topic ➡️](../30%3A%20Directory%20Based%20Cache%20coherehce/README.md)
